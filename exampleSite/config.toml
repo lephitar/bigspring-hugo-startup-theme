@@ -5,16 +5,6 @@ paginate = "3"
 summaryLength = "15"
 theme = "bigspring"
 title = "Bon Vivant Garden"
-[languages.fr]
-contentDir = "content/francais"
-copyright = "Design von [Themefisher](https://themefisher.com/) Entwickelt von [Gethugothemes](https://gethugothemes.com/)"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
-footer_menu_left = "Entreprise"
-footer_menu_middle = "Jardin"
-footer_menu_right = "Support"
-languageName = "Fr"
-title = "Bon Vivant Garden"
-weight = 2
 [languages.de]
 contentDir = "content/deutsch"
 copyright = "Design von [Themefisher](https://themefisher.com/) Entwickelt von [Gethugothemes](https://gethugothemes.com/)"
@@ -35,6 +25,16 @@ footer_menu_right = "Support"
 languageName = "En"
 title = "Bon Vivant Garden"
 weight = 1
+[languages.fr]
+contentDir = "content/francais"
+copyright = "Design Philippe Tarbouriech [phitar](https://phitar.com/)"
+footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+footer_menu_left = "Entreprise"
+footer_menu_middle = "Jardin"
+footer_menu_right = "Support"
+languageName = "Fr"
+title = "Bon Vivant Garden"
+weight = 2
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer_left]]
