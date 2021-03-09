@@ -7,15 +7,25 @@ sections:
 - type: heading
   label: Homepage
 - type: document
-  path: exampleSite/data/homepage.yml
-  label: Homepage Data
+  path: exampleSite/data/de/homepage.yml
+  label: Homepage Data de
+- type: document
+  path: exampleSite/data/fr/homepage.yml
+  label: Homepage Data fr
+- type: document
+  path: exampleSite/data/en/homepage.yml
+  label: Homepage Data en
 - type: heading
   label: Blog Post
 - type: document
-  path: exampleSite/content/blog/_index.md
+  path: exampleSite/content/fr/blog/_index.md
   label: Blog Page
+- type: document
+  path: exampleSite/content/fr/blog/_index.md
+  label: Blog fr
+  match: "**/*"
 - type: directory
-  path: exampleSite/content/blog
+  path: exampleSite/content/fr/blog
   label: Blog Post
   create: documents
   match: "**/*"
@@ -25,19 +35,19 @@ sections:
 - type: heading
   label: Others Page
 - type: document
-  path: exampleSite/content/faq/_index.md
+  path: exampleSite/content/fr/faq/_index.md
   label: FAQ
 - type: document
-  path: exampleSite/content/contact/_index.md
+  path: exampleSite/content/fr/contact/_index.md
   label: Contact
 - type: document
-  path: exampleSite/content/pricing/_index.md
+  path: exampleSite/content/fr/pricing/_index.md
   label: Pricing
 - type: document
-  path: exampleSite/content/privacy-policy/_index.md
+  path: exampleSite/content/fr/privacy-policy/_index.md
   label: Privacy Policy
 - type: document
-  path: exampleSite/content/terms-conditions/_index.md
+  path: exampleSite/content/fr/terms-conditions/_index.md
   label: Terms & Conditions
 - type: heading
   label: All Pages
