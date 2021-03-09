@@ -1,13 +1,11 @@
 ---
-title: "Prenez contact"
-subtitle: ""
-# meta description
-description: "This is meta description"
-draft: false
+title: Prenez contact
+subtitle: ''
+description: This is meta description
+
 ---
+### Pourquoi vous devriez prendre contact!
 
-
-### Why you should contact us!
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
 
 * **Phone: +33 622 69 24 17**
