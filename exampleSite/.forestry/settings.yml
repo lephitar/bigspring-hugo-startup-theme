@@ -7,8 +7,16 @@ sections:
 - type: heading
   label: Homepage
 - type: document
-  path: exampleSite/data/homepage.yml
-  label: Homepage Data
+  path: exampleSite/data/de/homepage.yml
+  label: Homepage Data de
+  match: "**/*"
+- type: document
+  path: exampleSite/data/fr/homepage.yml
+  label: Homepage Data fr
+  match: "**/*"
+- type: document
+  path: exampleSite/data/en/homepage.yml
+  label: Homepage Data en
 - type: heading
   label: Blog Post
 - type: document
