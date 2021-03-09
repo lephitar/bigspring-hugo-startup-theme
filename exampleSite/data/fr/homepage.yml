@@ -1,0 +1,111 @@
+####################### Banner #########################
+banner:
+  title : "Légumes et fruits locaux, <br> cueillis par les clients, <br> conçu pour scaler"
+  image : "images/bon-vivant_s.jpg"
+  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
+  button:
+    enable : true
+    label : "Prenez contact"
+    link : "contact"
+
+##################### Feature ##########################
+feature:
+  enable : true
+  title : "Ce que vous devez savoir"
+  feature_item:
+    # feature item loop
+    - name : "Produits locaux"
+      icon : "ti-pulse"
+      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+
+    # feature item loop
+    - name : "Transition agro écologique"
+      icon : "ti-package"
+      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+
+    # feature item loop
+    - name : "Consommacteurs"
+      icon : "ti-alarm-clock"
+      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+
+    # feature item loop
+    - name : "Tisser du lien social"
+      icon : "ti-credit-card"
+      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+
+    # feature item loop
+    - name : "Bâtir un modèle durable"
+      icon : "ti-headphone-alt"
+      content : "Economiquement pérène"
+
+    # feature item loop
+    - name : "Appuyé sur le digital"
+      icon : "ti-cloud-up"
+      content : "Nouveaux outils de collaboration, de géolocalisation et de communauté"
+
+
+
+######################### Service #####################
+service:
+  enable : true
+  service_item:
+    # service item loop
+    - title : "It is the most advanced digital marketing and it company."
+      images:
+      - "images/service-1.png"
+      - "images/service-2.png"
+      - "images/service-3.png"
+      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      button:
+        enable : true
+        label : "Check it out"
+        link : "#"
+
+    # service item loop
+    - title : "It is a privately owned Information and cyber security company"
+      images:
+      - "images/service-1.png"
+      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      button:
+        enable : true
+        label : "Check it out"
+        link : "#"
+
+    # service item loop
+    - title : "It’s a team of experienced and skilled people with distributions"
+      images:
+      - "images/service-2.png"
+      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      button:
+        enable : true
+        label : "Check it out"
+        link : "#"
+
+    # service item loop
+    - title : "A company standing different from others"
+      images:
+      - "images/service-3.png"
+      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      button:
+        enable : true
+        label : "Check it out"
+        link : "#"
+
+################### Screenshot ########################
+screenshot:
+  enable : true
+  title : "Experience the best <br> workflow with us"
+  image : "images/screenshot.svg"
+
+
+
+##################### Call to action #####################
+call_to_action:
+  enable : true
+  title : "Ready to get started?"
+  image : "images/cta.svg"
+  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  button:
+    enable : true
+    label : "Contact Us"
+    link : "contact"
