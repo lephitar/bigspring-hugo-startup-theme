@@ -110,7 +110,7 @@ icon = "ti-pinterest"
 link = "https://pin.it/1FiIIpt"
 title = "Pinterest"
 [[params.social]]
-icon = "ti-instagram-alt"
+icon = "ti-instagram"
 link = "https://www.instagram.com/bonvivantgarden/"
 title = "Instagram"
 [[params.social]]
