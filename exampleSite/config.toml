@@ -106,7 +106,7 @@ link = "plugins/slick/slick.min.js"
 enable = false
 preloader = ""
 [[params.social]]
-icon = "ti_insta"
+icon = "ti_instagram"
 link = "https://www.instagram.com/bonvivantgarden/"
 title = "Instagram"
 [[params.social]]
