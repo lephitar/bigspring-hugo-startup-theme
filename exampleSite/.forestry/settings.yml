@@ -45,7 +45,6 @@ sections:
 - type: document
   path: exampleSite/content/en/faq/_index.md
   label: FAQ
-  match: "**/*"
 - type: directory
   path: exampleSite/content/en
   label: All pages
