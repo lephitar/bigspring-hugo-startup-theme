@@ -5,25 +5,13 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: Homepage
-- type: document
-  path: exampleSite/data/de/homepage.yml
-  label: Homepage Data de
+  label: FR
 - type: document
   path: exampleSite/data/fr/homepage.yml
   label: Homepage Data fr
 - type: document
-  path: exampleSite/data/en/homepage.yml
-  label: Homepage Data en
-- type: heading
-  label: Blog Post
-- type: document
   path: exampleSite/content/fr/blog/_index.md
-  label: Blog Page
-- type: document
-  path: exampleSite/content/fr/blog/_index.md
-  label: Blog fr
-  match: "**/*"
+  label: Blog page
 - type: directory
   path: exampleSite/content/fr/blog
   label: Blog Post
@@ -32,11 +20,44 @@ sections:
   exclude: _index.md
   templates:
   - post
-- type: heading
-  label: Others Page
 - type: document
   path: exampleSite/content/fr/faq/_index.md
   label: FAQ
+- type: directory
+  path: exampleSite/content/fr
+  label: All Pages
+  create: all
+  match: "**/*"
+- type: heading
+  label: EN
+- type: document
+  path: exampleSite/data/en/homepage.yml
+  label: Homepage Data en
+- type: document
+  path: exampleSite/content/en/blog/_index.md
+  label: Blog Page
+- type: directory
+  path: exampleSite/content/en/blog
+  label: Blog Post
+  create: all
+  match: "**/*"
+  exclude: _index.md
+- type: document
+  path: exampleSite/content/en/faq/_index.md
+  label: FAQ
+  match: "**/*"
+- type: directory
+  path: exampleSite/content/en
+  label: All pages
+  create: all
+  match: "**/*"
+- type: heading
+  label: DE
+- type: document
+  path: exampleSite/data/de/homepage.yml
+  label: Homepage Data de
+- type: heading
+  label: Others Page
 - type: document
   path: exampleSite/content/fr/contact/_index.md
   label: Contact
