@@ -1,7 +1,6 @@
 +++
 date = 2021-03-10T23:00:00Z
 description = ""
-draft = true
 image = "/images/good-quality.png"
 title = "The Balkan Ecology Project"
 type = "regular"
