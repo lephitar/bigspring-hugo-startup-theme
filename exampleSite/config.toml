@@ -66,19 +66,51 @@ url = "terms-conditions"
 [[menu.footer_right]]
 name = "FAQ"
 url = "faq"
-[[menu.main]]
+[[languages.fr.menu.main]]
 name = "Blog"
 url = "blog"
 weight = 1
-[[menu.main]]
-name = "Pricing"
-url = "pricing"
+[[languages.fr.menu.main]]
+name = "Jardins"
+url = "jardins"
 weight = 2
-[[menu.main]]
+[[languages.fr.menu.main]]
 name = "Contact"
 url = "contact"
 weight = 3
-[[menu.main]]
+[[languages.fr.menu.main]]
+name = "FAQ"
+url = "faq"
+weight = 4
+[[languages.en.menu.main]]
+name = "Blog"
+url = "blog"
+weight = 1
+[[languages.en.menu.main]]
+name = "Garden"
+url = "garden"
+weight = 2
+[[languages.en.menu.main]]
+name = "Contact"
+url = "contact"
+weight = 3
+[[languages.en.menu.main]]
+name = "FAQ"
+url = "faq"
+weight = 4
+[[languages.de.menu.main]]
+name = "Blog"
+url = "blog"
+weight = 1
+[[languages.de.menu.main]]
+name = "Garten"
+url = "garten"
+weight = 2
+[[languages.de.menu.main]]
+name = "Kontakt"
+url = "kontact"
+weight = 3
+[[languages.de.menu.main]]
 name = "FAQ"
 url = "faq"
 weight = 4
