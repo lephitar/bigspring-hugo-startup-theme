@@ -1,5 +1,5 @@
 ---
-title: "Preise"
+title: "Garten"
 subtitle: ""
 # meta description
 description: "Dies ist die Metabeschreibung"
@@ -18,7 +18,7 @@ basic:
     enable : true
     label : "Kostenlos starten"
     link : "#"
-    
+
 professional:
   name : "Professional Plan"
   price: "€49"
@@ -34,7 +34,7 @@ professional:
     enable : true
     label : "Kostenlos starten"
     link : "#"
-    
+
 business:
   name : "Business Plan"
   price: "€49"

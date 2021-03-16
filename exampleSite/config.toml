@@ -46,11 +46,11 @@ url = "#"
 name = "Quick Start"
 url = "#"
 [[menu.footer_left]]
-name = "Pricing"
-url = "pricing"
+name = "Garden"
+url = "garden"
 [[menu.footer_middle]]
-name = "Pricing"
-url = "pricing"
+name = "Garden"
+url = "garden"
 [[menu.footer_middle]]
 name = "Platform"
 url = "#"

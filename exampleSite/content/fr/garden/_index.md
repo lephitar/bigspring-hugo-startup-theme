@@ -1,5 +1,5 @@
 ---
-title: "Pricing"
+title: "Jardin"
 subtitle: ""
 # meta description
 description: "This is meta description"
@@ -18,7 +18,7 @@ basic:
     enable : true
     label : "Get started for free"
     link : "#"
-    
+
 professional:
   name : "Professional Plan"
   price: "$49"
@@ -34,7 +34,7 @@ professional:
     enable : true
     label : "Get started for free"
     link : "#"
-    
+
 business:
   name : "Business Plan"
   price: "$49"
