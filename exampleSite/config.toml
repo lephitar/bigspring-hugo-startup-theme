@@ -5,6 +5,8 @@ paginate = "3"
 summaryLength = "15"
 theme = "bigspring"
 title = "Bon Vivant Garden"
+copyright = "Copyright Philippe Tarbouriech"
+defaultContentLanguage = "fr"
 [languages.de]
 contentDir = "content/de"
 copyright = "Design [phitar](https://phitar.com/)"
@@ -18,23 +20,23 @@ weight = 2
 [languages.en]
 contentDir = "content/en"
 copyright = "Design [phitar](https://phitar.com/)"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+footer_content = "Pick your own vegetables and fruits in a network of local forest-gardens."
 footer_menu_left = "Company"
 footer_menu_middle = "Garden"
 footer_menu_right = "Support"
 languageName = "En"
 title = "Bon Vivant Garden"
-weight = 1
+weight = 2
 [languages.fr]
 contentDir = "content/fr"
 copyright = "Design [phitar](https://phitar.com/)"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+footer_content = "Cueillir soi-même ses légumes et fruits dans un réseau de jardins-forêts de proximité."
 footer_menu_left = "Entreprise"
 footer_menu_middle = "Jardin"
 footer_menu_right = "Support"
 languageName = "Fr"
 title = "Bon Vivant Garden"
-weight = 2
+weight = 1
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer_left]]
