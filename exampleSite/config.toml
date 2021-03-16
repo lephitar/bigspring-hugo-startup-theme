@@ -1,12 +1,12 @@
 baseURL = "http://bonvivant.garden/"
+copyright = "Copyright Philippe Tarbouriech"
+defaultContentLanguage = "fr"
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "3"
 summaryLength = "15"
 theme = "bigspring"
 title = "Bon Vivant Garden"
-copyright = "Copyright Philippe Tarbouriech"
-defaultContentLanguage = "fr"
 [languages.de]
 contentDir = "content/de"
 copyright = "Design [phitar](https://phitar.com/)"
@@ -40,11 +40,13 @@ weight = 1
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer_left]]
-name = "About Us"
-url = "#"
+name = "Pricing"
+url = "pricing"
+weight = 1
 [[menu.footer_left]]
 name = "Quick Start"
 url = "#"
+weight = 2
 [[menu.footer_left]]
 name = "Garden"
 url = "garden"
@@ -54,66 +56,31 @@ url = "garden"
 [[menu.footer_middle]]
 name = "Platform"
 url = "#"
+weight = 3
 [[menu.footer_middle]]
 name = "Features"
 url = "#"
+weight = 1
+[[menu.footer_middle]]
+name = "Platform"
+url = "#"
+weight = 2
+[[menu.footer_middle]]
+name = "Pricing"
+url = "pricing"
+weight = 3
 [[menu.footer_right]]
-name = "Privacy Policy"
-url = "privacy-policy"
+name = "FAQ"
+url = "faq"
+weight = 1
 [[menu.footer_right]]
 name = "Terms & Conditions"
 url = "terms-conditions"
+weight = 2
 [[menu.footer_right]]
-name = "FAQ"
-url = "faq"
-[[languages.fr.menu.main]]
-name = "Blog"
-url = "blog"
-weight = 1
-[[languages.fr.menu.main]]
-name = "Jardins"
-url = "garden"
-weight = 2
-[[languages.fr.menu.main]]
-name = "Contact"
-url = "contact"
+name = "Privacy Policy"
+url = "privacy-policy"
 weight = 3
-[[languages.fr.menu.main]]
-name = "FAQ"
-url = "faq"
-weight = 4
-[[languages.en.menu.main]]
-name = "Blog"
-url = "blog"
-weight = 1
-[[languages.en.menu.main]]
-name = "Garden"
-url = "garden"
-weight = 2
-[[languages.en.menu.main]]
-name = "Contact"
-url = "contact"
-weight = 3
-[[languages.en.menu.main]]
-name = "FAQ"
-url = "faq"
-weight = 4
-[[languages.de.menu.main]]
-name = "Blog"
-url = "blog"
-weight = 1
-[[languages.de.menu.main]]
-name = "Garten"
-url = "garden"
-weight = 2
-[[languages.de.menu.main]]
-name = "Kontakt"
-url = "contact"
-weight = 3
-[[languages.de.menu.main]]
-name = "FAQ"
-url = "faq"
-weight = 4
 [params]
 author = "Themefisher"
 contact_form_action = "#"
