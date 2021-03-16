@@ -40,48 +40,41 @@ weight = 1
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer_left]]
-name = "About Us"
-url = "#"
+name = "Pricing"
+url = "pricing"
+weight = 1
 [[menu.footer_left]]
 name = "Quick Start"
 url = "#"
+weight = 2
 [[menu.footer_left]]
-name = "Pricing"
-url = "pricing"
-[[menu.footer_middle]]
-name = "Pricing"
-url = "pricing"
-[[menu.footer_middle]]
-name = "Platform"
+name = "About Us"
 url = "#"
+weight = 3
 [[menu.footer_middle]]
 name = "Features"
 url = "#"
+weight = 1
+[[menu.footer_middle]]
+name = "Platform"
+url = "#"
+weight = 2
+[[menu.footer_middle]]
+name = "Pricing"
+url = "pricing"
+weight = 3
 [[menu.footer_right]]
-name = "Privacy Policy"
-url = "privacy-policy"
+name = "FAQ"
+url = "faq"
+weight = 1
 [[menu.footer_right]]
 name = "Terms & Conditions"
 url = "terms-conditions"
-[[menu.footer_right]]
-name = "FAQ"
-url = "faq"
-[[menu.main]]
-name = "Blog"
-url = "blog"
-weight = 1
-[[menu.main]]
-name = "Pricing"
-url = "pricing"
 weight = 2
-[[menu.main]]
-name = "Contact"
-url = "contact"
+[[menu.footer_right]]
+name = "Privacy Policy"
+url = "privacy-policy"
 weight = 3
-[[menu.main]]
-name = "FAQ"
-url = "faq"
-weight = 4
 [params]
 author = "Themefisher"
 contact_form_action = "#"
