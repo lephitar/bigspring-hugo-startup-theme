@@ -72,7 +72,7 @@ url = "blog"
 weight = 1
 [[languages.fr.menu.main]]
 name = "Jardins"
-url = "jardins"
+url = "garden"
 weight = 2
 [[languages.fr.menu.main]]
 name = "Contact"
@@ -104,11 +104,11 @@ url = "blog"
 weight = 1
 [[languages.de.menu.main]]
 name = "Garten"
-url = "garten"
+url = "garden"
 weight = 2
 [[languages.de.menu.main]]
 name = "Kontakt"
-url = "kontact"
+url = "contact"
 weight = 3
 [[languages.de.menu.main]]
 name = "FAQ"
