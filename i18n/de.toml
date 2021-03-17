@@ -2,7 +2,7 @@
 other = "Weiterlesen"
 
 [translations]
-other="Übersetzungen"
+other = "Übersetzungen"
 
 [error404]
 other = "Es tut uns wirklich leid aber hier scheint es nichts zu geben."
@@ -21,4 +21,3 @@ other = "Ihre Nachricht"
 
 [sendnow]
 other = "Abschicken"
-
