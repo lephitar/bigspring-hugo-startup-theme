@@ -45,7 +45,7 @@ business:
     link: "#"
 call_to_action:
   enable: true
-  title: Proposer un jardin
+  title: Propose a garden
   image: images/cta.svg
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
     eget amet, tempus eu at consecttur.
