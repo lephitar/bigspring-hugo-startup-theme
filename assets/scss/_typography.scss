@@ -129,6 +129,15 @@
   }
 }
 
+navigation
+.navigation,  {
+  color: $text-color-dark;
+  font-family: $primary-font;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
 body {
   line-height: 1.2;
   font-family: $secondary-font;
@@ -158,6 +167,7 @@ h5, .h5,
 h6, .h6 {
   color: $text-color-dark;
   font-family: $primary-font;
+  -webkit-font-smoothing: antialiased;
   font-weight: 700;
   line-height: 1.2;
 }

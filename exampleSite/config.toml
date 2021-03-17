@@ -67,15 +67,15 @@ url = "terms-conditions"
 name = "FAQ"
 url = "faq"
 [[languages.fr.menu.main]]
-name = "Blog"
+name = "BLOG"
 url = "blog"
 weight = 1
 [[languages.fr.menu.main]]
-name = "Jardins"
+name = "JARDINS"
 url = "garden"
 weight = 2
 [[languages.fr.menu.main]]
-name = "Contact"
+name = "CONTACT"
 url = "contact"
 weight = 3
 [[languages.fr.menu.main]]
@@ -83,15 +83,15 @@ name = "FAQ"
 url = "faq"
 weight = 4
 [[languages.en.menu.main]]
-name = "Blog"
+name = "BLOG"
 url = "blog"
 weight = 1
 [[languages.en.menu.main]]
-name = "Garden"
+name = "GARDEN"
 url = "garden"
 weight = 2
 [[languages.en.menu.main]]
-name = "Contact"
+name = "CONTACT"
 url = "contact"
 weight = 3
 [[languages.en.menu.main]]
@@ -99,15 +99,15 @@ name = "FAQ"
 url = "faq"
 weight = 4
 [[languages.de.menu.main]]
-name = "Blog"
+name = "BLOG"
 url = "blog"
 weight = 1
 [[languages.de.menu.main]]
-name = "Garten"
+name = "GARTEN"
 url = "garden"
 weight = 2
 [[languages.de.menu.main]]
-name = "Kontakt"
+name = "KONTAKT"
 url = "contact"
 weight = 3
 [[languages.de.menu.main]]
@@ -120,7 +120,15 @@ contact_form_action = "#"
 description = "This is meta description"
 logo = "images/logo.svg"
 logo_width = "94px"
-[params.navigation_button]
+[languages.en.params.navigation_button]
+enable = true
+label = "Get Started"
+link = "contact"
+[languages.fr.params.navigation_button]
+enable = true
+label = "Commencer"
+link = "contact"
+[languages.de.params.navigation_button]
 enable = true
 label = "Get Started"
 link = "contact"
