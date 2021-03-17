@@ -118,7 +118,7 @@ weight = 4
 author = "Themefisher"
 contact_form_action = "#"
 description = "This is meta description"
-logo = "images/logo.png"
+logo = "images/logo.svg"
 logo_width = "94px"
 [params.navigation_button]
 enable = true
