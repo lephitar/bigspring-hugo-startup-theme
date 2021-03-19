@@ -1,7 +1,7 @@
 ####################### Banner #########################
 banner:
   title : "Produkte aus lokalem Anbau, <br> die von den maßstabsgetreuen Kunden<br> frisch gepflückt wurden"
-  image : "images/bon-vivant_s.jpg"
+  image : images/logo.svg
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
   button:
     enable : true

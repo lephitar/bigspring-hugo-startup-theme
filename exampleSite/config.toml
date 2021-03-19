@@ -7,6 +7,9 @@ theme = "bigspring"
 title = "Bon Vivant Garden"
 copyright = "Copyright Philippe Tarbouriech"
 defaultContentLanguage = "fr"
+defaultContentLanguageInSubdir = true
+disableLanguages = ["de"]
+
 [languages.de]
 contentDir = "content/de"
 copyright = "Design [phitar](https://phitar.com/)"
@@ -167,3 +170,9 @@ title = "twitter"
 icon = "ti-linkedin"
 link = "#"
 title = "linkedin"
+
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+lastmod = [":git", "lastmod", "date", "publishDate"]
+publishDate = ["publishDate", "date"]
+expiryDate = ["expiryDate"]
