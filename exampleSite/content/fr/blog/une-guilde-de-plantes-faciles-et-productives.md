@@ -20,6 +20,8 @@ Le **chèvrefeuille bleu**, où camérisier bleu (_Lonicera caerulea_) produit d
 
 Les **framboisiers** (_Rubus idaeus_) s'installent en 2 année et ensuite colonisent rapidement une zone, drageonnant librement autour du plant initial.
 
-Les **pois** (_Pisum sativum_) et les **haricots** (_Vicia faba_), en fixant l'azote, contribuent à la santé et à la croissance des plantes autour d'eux. On peut en planter un peu partout dans le jardin-forêt, les laisser grimper sur les arbustes et les petits arbres.  
-  
+Les **pois** (_Pisum sativum_) et les **haricots** (_Vicia faba_), en fixant l'azote, contribuent à la santé et à la croissance des plantes autour d'eux. On peut en planter un peu partout dans le jardin-forêt, les laisser grimper sur les arbustes et les petits arbres.
+
 (Source: [https://www.youtube.com/watch?v=XwuuSeTgyBA](https://www.youtube.com/watch?v=XwuuSeTgyBA "https://www.youtube.com/watch?v=XwuuSeTgyBA"))
+
+Source: {{< youtube [XwuuSeTgyBA](https://www.youtube.com/watch?v=XwuuSeTgyBA "https://www.youtube.com/watch?v=XwuuSeTgyBA") >}}
