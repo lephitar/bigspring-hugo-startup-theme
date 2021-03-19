@@ -24,4 +24,4 @@ Les **pois** (_Pisum sativum_) et les **haricots** (_Vicia faba_), en fixant l'a
 
 (Source: [https://www.youtube.com/watch?v=XwuuSeTgyBA](https://www.youtube.com/watch?v=XwuuSeTgyBA "https://www.youtube.com/watch?v=XwuuSeTgyBA"))
 
-Source: {{< youtube [XwuuSeTgyBA](https://www.youtube.com/watch?v=XwuuSeTgyBA "https://www.youtube.com/watch?v=XwuuSeTgyBA") >}}
+Source: {{< youtube XwuuSeTgyBA >}}
