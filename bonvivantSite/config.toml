@@ -123,6 +123,7 @@ contact_form_action = "#"
 description = "This is meta description"
 logo = "images/logo.svg"
 logo_width = "94px"
+favicon = “/images/favicon.ico” # Path to favicon file
 [languages.en.params.navigation_button]
 enable = true
 label = "Get Started"
