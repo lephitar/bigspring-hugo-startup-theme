@@ -1,7 +1,7 @@
 +++
 date = 2021-03-17T23:00:00Z
 description = "Installation d'un jardin-forêt"
-image = ""
+image = "images/blog/bon-vivant_s.jpg"
 title = "Installation d'un jardin-forêt"
 type = "regular"
 
