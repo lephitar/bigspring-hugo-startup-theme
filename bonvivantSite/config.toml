@@ -73,10 +73,10 @@ url = "faq"
 name = "BLOG"
 url = "blog"
 weight = 1
-[[languages.fr.menu.main]]
-name = "JARDINS"
-url = "garden"
-weight = 2
+# [[languages.fr.menu.main]]
+# name = "JARDINS"
+# url = "garden"
+# weight = 2
 [[languages.fr.menu.main]]
 name = "CONTACT"
 url = "contact"
@@ -89,10 +89,10 @@ weight = 4
 name = "BLOG"
 url = "blog"
 weight = 1
-[[languages.en.menu.main]]
-name = "GARDEN"
-url = "garden"
-weight = 2
+# [[languages.en.menu.main]]
+# name = "GARDEN"
+# url = "garden"
+# weight = 2
 [[languages.en.menu.main]]
 name = "CONTACT"
 url = "contact"
@@ -105,10 +105,10 @@ weight = 4
 name = "BLOG"
 url = "blog"
 weight = 1
-[[languages.de.menu.main]]
-name = "GARTEN"
-url = "garden"
-weight = 2
+# [[languages.de.menu.main]]
+# name = "GARTEN"
+# url = "garden"
+# weight = 2
 [[languages.de.menu.main]]
 name = "KONTAKT"
 url = "contact"
