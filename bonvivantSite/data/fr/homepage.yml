@@ -3,9 +3,9 @@ banner:
   title: Légumes et fruits locaux, <br> cueillis par les clients
   image: images/logo.svg
   content: |-
-    Bousculer l'agriculture intensive et le transport de produits frais pour inventer un approvisionnement alimentaire zero carbone,
-    Encourager un mode de vie plus respectueux de l'environnement, plus social, plus résilient, plus sain,
-    Créer des emplois pour des milliers de jardiniers à travers le monde tout en déployant la marque et l'impact de la solution Bon Vivant Garden.
+    Bousculer l'agriculture intensive et la logistique des produits frais pour inventer une alimentation zero carbone.<br>
+    Encourager un mode de vie plus respectueux de l'environnement, plus social, plus résilient, plus sain.<br>
+    Créer des emplois pour des milliers de jardiniers tout en déployant la marque et l'impact Bon Vivant Garden.
 
 #  button:
 #    enable: true
@@ -13,20 +13,20 @@ banner:
 #    link: contact
 feature:
   enable: true
-  title: Ce que vous devez savoir
+  title: Proposition de valeur unique
   feature_item:
   - name: Local
     icon: ti-home
-    content: Vos aliments poussent dans votre quartier
+    content: Vos aliments poussent **dans votre quartier**
   - name: Transition
     icon: ti-truck
-    content: Ne dépend ni du transport, ni des énergies fossiles
-  - name: Consom'acteurs
+    content: N'utilise ni transport, ni énergies fossiles
+  - name: Responsable
     icon: ti-hand-open
     content: Les clients choisissent et récoltent eux-mêmes leurs produits
   - name: Social
     icon: ti-heart
-    content: Crée du lien, des emplois et rend une alimentation saine accessible
+    content: Crée du lien, des emplois et rend l'alimentation saine accessible
   - name: Durable
     icon: ti-stats-up
     content: Economiquement pérène avec un excellent rapport qualité prix
@@ -34,7 +34,7 @@ feature:
     icon: ti-light-bulb
     content: Bâtit sur de nouveaux outils pour gérer la complexité
 service:
-  enable: true
+  enable: false
   service_item:
   - title: It is the most advanced digital marketing and it company.
     images:
@@ -87,11 +87,11 @@ service:
       label: Check it out
       link: "#"
 screenshot:
-  enable: true
+  enable: false
   title: Experience the best <br> workflow with us
   image: images/screenshot.svg
 call_to_action:
-  enable: true
+  enable: false
   title: Prêt à vous lancer?
   image: images/cta.svg
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique

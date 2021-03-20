@@ -3,23 +3,23 @@ banner:
   title: Locally grown produce, <br> picked fresh by the clients
   image: images/logo.svg
   content: |-
-    Disrupt intensive agriculture and perishable good logistics into a zero carbon footprint food supply,
-    Support a healthier, more resilient, more socially and environmentally conscious lifestyle,
-    Create a sustainable business for thousands of gardeners in the world while scaling Bon Vivant Garden brand and impact.
+    Disrupt intensive agriculture and perishable good logistics into a zero carbon footprint food supply. <br>
+    Support a healthier, more resilient, more socially and environmentally conscious lifestyle.<br>
+    Create a sustainable business for thousands of gardeners while scaling Bon Vivant Garden brand and impact.
 #  button:
 #    enable: true
 #    label: Contact Us
 #    link: contact
 feature:
   enable: true
-  title: Something You Need To Know
+  title: Unique Value Proposition
   feature_item:
   - name: Local
     icon: ti-home
-    content: Your food grows in your neighbourhood
+    content: Your food grows in **your neighbourhood**
   - name: Transition
     icon: ti-truck
-    content: Not based on transportation or fossil energy
+    content: Transportation and fossil energy free
   - name: Responsible
     icon: ti-hand-open
     content: Clients choose and pick their own produce
@@ -28,12 +28,12 @@ feature:
     content: Creates connections, jobs and makes healthy food affordable
   - name: Sustainable
     icon: ti-stats-up
-    content: Clients and gardens get good value for money
+    content: Excellent value while supporting a profitable business model
   - name: Digital
     icon: ti-light-bulb
-    content: Supported by new tools to help manage complexity and learning
+    content: Leverages new tools to help manage complexity and learning
 service:
-  enable: true
+  enable: false
   service_item:
   - title: It is the most advanced digital marketing and it company.
     images:
@@ -86,11 +86,11 @@ service:
       label: Check it out
       link: "#"
 screenshot:
-  enable: true
+  enable: false
   title: Experience the best <br> workflow with us
   image: images/screenshot.svg
 call_to_action:
-  enable: true
+  enable: false
   title: Ready to get started?
   image: images/cta.svg
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
