@@ -1,37 +1,38 @@
 ---
 banner:
-  title: Légumes et fruits locaux, <br> cueillis par les clients, <br> conçu pour
-    scaler
+  title: Légumes et fruits locaux, <br> cueillis par les clients
   image: images/logo.svg
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
-  button:
-    enable: true
-    label: Prenez contact
-    link: contact
+  content: Bousculer l'agriculture intensive et le transport de produits frais pour inventer un approvisionnement alimentaire
+  zero carbone,<br>
+Encourager un mode de vie plus respectueux de l'environnement, plus social, plus résilient, plus sain, <br>
+Créer des emplois pour des milliers de jardiniers à travers le monde tout en déployant la marque et l'impact de la solution Bon Vivant Garden.
+
+#  button:
+#    enable: true
+#    label: Prenez contact
+#    link: contact
 feature:
   enable: true
   title: Ce que vous devez savoir
   feature_item:
-  - name: Produits locaux
-    icon: ti-pulse
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Transition agro écologique
-    icon: ti-package
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Consommacteurs
-    icon: ti-alarm-clock
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Tisser du lien social
-    icon: ti-credit-card
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Bâtir un modèle durable
-    icon: ti-headphone-alt
-    content: Economiquement pérène
-  - name: Appuyé sur le digital
-    icon: ti-cloud-up
-    content: Nouveaux outils de collaboration, de géolocalisation et de communauté
+  - name: Local
+    icon: ti-home
+    content: Vos aliments poussent dans votre quartier
+  - name: Transition
+    icon: ti-truck
+    content: Ne dépend ni du transport, ni des énergies fossiles
+  - name: Consom'acteurs
+    icon: ti-hand-open
+    content: Les clients choisissent et récoltent eux-mêmes leurs produits
+  - name: Social
+    icon: ti-heart
+    content: Crée du lien, des emplois et rend une alimentation saine accessible
+  - name: Durable
+    icon: ti-stats-up
+    content: Economiquement pérène avec un excellent rapport qualité prix
+  - name: Digital
+    icon: ti-light-bulb
+    content: Bâtit sur de nouveaux outils pour gérer la complexité
 service:
   enable: true
   service_item:
