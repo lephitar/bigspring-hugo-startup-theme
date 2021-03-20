@@ -1,7 +1,7 @@
 ---
 title: Prenez contact
 subtitle: ''
-description: This is meta description
+description: Prise de contact
 
 ---
 ### Pourquoi prendre contact?

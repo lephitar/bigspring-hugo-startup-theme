@@ -1,7 +1,7 @@
 +++
 date = 2021-03-15T23:00:00Z
 description = "agroforestry"
-image = "/images/agroforestry.jpg"
+image = "images/blog/agroforestry.jpg"
 title = "Agroforestry improves both carbon fixation and resilience to climate change"
 type = "regular"
 

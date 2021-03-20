@@ -22,6 +22,4 @@ Les **framboisiers** (_Rubus idaeus_) s'installent en 2 année et ensuite coloni
 
 Les **pois** (_Pisum sativum_) et les **haricots** (_Vicia faba_), en fixant l'azote, contribuent à la santé et à la croissance des plantes autour d'eux. On peut en planter un peu partout dans le jardin-forêt, les laisser grimper sur les arbustes et les petits arbres.
 
-(Source: [https://www.youtube.com/watch?v=XwuuSeTgyBA](https://www.youtube.com/watch?v=XwuuSeTgyBA "https://www.youtube.com/watch?v=XwuuSeTgyBA"))
-
 Source: {{< youtube XwuuSeTgyBA >}}

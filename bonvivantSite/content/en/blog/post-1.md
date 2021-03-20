@@ -2,13 +2,13 @@
 title: "Adversus is a web-based dialer and practical CRM solution"
 date: 2020-04-18T10:07:21+06:00
 # post image
-image: "images/blog/post-4.jpg"
+image: "images/blog/post-1.jpg"
 # post type (regular/featured)
-type: "regular"
+type: "featured"
 # meta description
 description: "This is meta description"
 # post draft
-draft: false
+draft: true
 ---
 
 
@@ -16,22 +16,22 @@ draft: false
 
 Here is example of hedings. You can use this heading by following markdownify rules. For example: use `#` for heading 1 and use `######` for heading 6.
 
-# Heading 1 
+# Heading 1
 <br>
 
-## Heading 2 
-
-<br>
-
-### Heading 3 
+## Heading 2
 
 <br>
 
-#### Heading 4 
+### Heading 3
 
 <br>
 
-##### Heading 5 
+#### Heading 4
+
+<br>
+
+##### Heading 5
 
 <br>
 
@@ -65,8 +65,8 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 Or leave it empty and use the [link text itself].
 
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
+URLs and URLs in angle brackets will automatically get turned into links.
+http://www.example.com or <http://www.example.com> and sometimes
 example.com (but not on Github, for example).
 
 Some text to show that the reference links can follow later.
@@ -111,7 +111,7 @@ Inline `code` has `back-ticks around` it.
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
- 
+
 ```python
 s = "Python syntax highlighting"
 print s
@@ -151,7 +151,7 @@ Colons can be used to align columns.
 | zebra stripes | are neat      |    $1 |
 
 There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
+The outer pipes (|) are optional, and you don't need to make the
 raw Markdown line up prettily. You can also use inline Markdown.
 
 Markdown | Less | Pretty

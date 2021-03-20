@@ -1,7 +1,7 @@
 +++
 date = 2021-03-15T23:00:00Z
 description = "When archeology meets agroforestry in the Amazon"
-image = "/images/176077_web.jpg"
+image = "images/blog/176077_web.jpg"
 title = "Ancient farmers transformed Amazon and left an enduring legacy on the rainforest"
 type = "featured"
 

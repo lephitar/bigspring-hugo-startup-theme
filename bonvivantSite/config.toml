@@ -159,17 +159,9 @@ icon = "ti-instagram"
 link = "https://www.instagram.com/bonvivantgarden/"
 title = "Instagram"
 [[params.social]]
-icon = "ti-facebook"
-link = "#"
-title = "facebook"
-[[params.social]]
 icon = "ti-twitter-alt"
 link = "#"
 title = "twitter"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
-title = "linkedin"
 
 [frontmatter]
 date = ["date", "publishDate", "lastmod"]
