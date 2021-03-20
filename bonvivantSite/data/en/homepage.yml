@@ -24,10 +24,10 @@ feature:
     icon: ti-hand-open
     content: Clients choose and pick their own produce
   - name: Social
-    icon: ti-credit-card
+    icon: ti-heart
     content: Creates connections, jobs and makes healthy food affordable
   - name: Sustainable
-    icon: ti-credit-card
+    icon: ti-stats-up
     content: Clients and gardens get good value for money
   - name: Digital
     icon: ti-light-bulb
