@@ -13,10 +13,10 @@ draft: false
 The labor costs associated with harvesting and processing are eliminated. Pickers advantageously replace their tour of the shelves of a supermarket, weighing, waiting at the checkout to refill their bags, to the parking lot, with a walk in the garden to harvest the vegetables and fruits that only they will have. affected.
 {{</ faq>}}
 
-{{<faq "What is the difference with AMAPs?" >}}
-The [AMAPs] (http://www.reseau-amap.org/amap.php) which increasingly mesh our country bring consumers closer to producers, promote short circuits and seasonal consumption. The AMAP model replaces distribution with a direct sale of baskets, the content of which depends on the season. Most often, the customer must come at a specific time to collect his basket and must also often give a little of his time (work in the fields, packaging, sales, etc.).
+{{<faq "What is the difference with CSA?" >}}
+The which increasingly mesh our country bring consumers closer to producers, promote short circuits and seasonal consumption. The [CSA](https://en.wikipedia.org/wiki/Community-supported_agriculture) model replaces distribution with a direct sale of baskets, the content of which depends on the season. Most often, the customer must come at a specific time to collect his basket and must also often give a little of his time (work in the fields, packaging, sales, etc.).
 
-To be able to supply a large number of identical baskets, AMAP relies on the traditional intensive agricultural model, based on mainly annual plants, harvested synchronously. The labor costs associated with harvesting, cleaning, storing ... products as well as the impacts on soils (plowing, leaching, amendments) or on biodiversity are in fact little different from traditional models.
+To be able to supply a large number of identical baskets, CSA relies on the traditional intensive agricultural model, based on mainly annual plants, harvested in one go. The labor costs associated with harvesting, cleaning, storing ... products as well as the impacts on soils (plowing, leaching, amendments) or on biodiversity are in fact little different from traditional models.
 {{</ faq>}}
 
 {{<faq "Are there not already farms where it is the customer who harvests">}}

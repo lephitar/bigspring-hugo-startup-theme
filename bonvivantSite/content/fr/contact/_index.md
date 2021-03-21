@@ -10,5 +10,5 @@ Vous avez un terrain à proximité d'habitations que vous souhaiteriez convertir
 Contactez nous!
 
 * **Téléphone: [+33 622 69 24 17](tel:+33622692417)**
-* **e-Mail: [contact@bonvivant.garden](mailto:contact@bonvivant.garden)**
+* **E-mail: [contact@bonvivant.garden](mailto:contact@bonvivant.garden)**
 * **Adresse: Prévessin-Moëns, France**

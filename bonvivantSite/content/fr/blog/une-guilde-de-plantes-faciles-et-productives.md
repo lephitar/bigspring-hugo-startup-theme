@@ -6,7 +6,7 @@ title = "Une guilde de plantes faciles et productives"
 type = "regular"
 
 +++
-Cette guilde associe sous un pêcher un chèvrefeuille bleu, des framboisiers, quelques griffes d'asperges, des oignons rocamboles et de l'ail, des fraisier pour couvrir le sol, et des pois et des haricots grimpants.
+Cette guilde associe sous un pêcher un chèvrefeuille bleu, des framboisiers, quelques griffes d'asperges, des oignons rocamboles, de l'ail, des fraisiers pour couvrir le sol, des pois et des haricots grimpants.
 
 L'**ail** (_Allium sativum_) peut se planter à la fois à l'automne et au printemps, son odeur forte décourage certains prédateurs du jardin, autant insectes que petits mammifères. Chaque tête produisant une dizaine de gousses, la multiplication est facile. Les oignons sont aussi très faciles à planter à partir de bulbilles. Pour le minimum de travail, l'**oignon rocambole** (_Allium × proliferum_) produit ses bulbilles au bout de ses longues tiges et se replante tout seul. Dans l'oignon rocambole, tout se mange, les bulbilles au goût d'échalote, les tiges proches de la ciboulette et bien sur les oignons souterrains quand ils sont établis.
 

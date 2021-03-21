@@ -8,15 +8,15 @@ draft: false
 
 
 {{< faq "En quoi le modèle de BonVivant est particulier?" >}}
-**BonVivant** propose un modèle particulier où chacun fait sa propre récolte, remplit son propre panier et paye en fonction de ce qu'elle ou il a récolté. Ce type de récolte personnalisée s'adapte bien mieux à la maturation progressive des plantes dans un jardin-forêt. En effet certaines plantes précoces bénéficient d'un micro climat alors que d'autres tardent car elles reçoivent moins de soleil ou d'eau.
+**BonVivant** propose un modèle particulier où chacun fait sa propre récolte, remplit son propre panier et paye en fonction de ce qu'elle ou il a récolté. Ce type de récolte personnalisé s'adapte bien mieux à la maturation progressive des plantes dans un jardin-forêt. En effet certaines plantes précoces bénéficient d'un micro climat alors que d'autres tardent car elles reçoivent moins de soleil ou d'eau.
 
-Les coûts de main d'oeuvre liée à la récolte et au traitement sont éliminés. Les cueilleurs remplacent avantageusement leur tournée des rayons d'un supermarché, la pesée, l'attente en caisse pour re-remplir ses sacs, jusqu'au parking, par un tour dans le jardin pour récolter les légumes et fruits qu'eux seuls auront touchés.
+Les coûts de main d'oeuvre liés à la récolte et au traitement sont éliminés. Les cueilleurs remplacent avantageusement leur tournée des rayons d'un supermarché, la pesée, l'attente en caisse pour re-remplir ses sacs, jusqu'au parking, par un tour dans le jardin pour récolter les légumes et fruits qu'eux seuls auront touchés.
 {{</ faq >}}
 
 {{< faq "Quelle différence avec les AMAP?" >}}
 Les [AMAP](http://www.reseau-amap.org/amap.php) qui maillent de plus en plus densément notre pays rapprochent les consommateurs des producteurs, favorisent les circuits courts et la consommation de saison. Le modèle des AMAP remplace la distribution par une vente en direct de paniers dont le contenu est fonction de la saison. Le plus souvent, le client doit venir à une heure précise récupérer son panier et doit aussi souvent donner un peu de son temps (travaux aux champs, conditionnement, vente...).
 
-Pour pouvoir fournir un nombre important de paniers identiques, l'AMAP s'appuye sur le modèle agricole intensif traditionnel, basé sur des plantes principalement annuelles, récoltées de manière synchrone. Les coûts de main d'oeuvre liés à la récolte, au nettoyage, stockage... des produits ainsi que les impacts sur les sols (labourage, lessivage, amendements) ou sur la biodiversité diffèrent en fait peu des modèles traditionnels.
+Pour pouvoir fournir un nombre important de paniers identiques, l'AMAP s'appuye sur le modèle agricole intensif traditionnel, basé sur des plantes principalement annuelles, récoltées en une fois. Les coûts de main d'oeuvre liés à la récolte, au nettoyage, stockage... des produits ainsi que les impacts sur les sols (labourage, lessivage, amendements) ou sur la biodiversité diffèrent en fait peu des modèles traditionnels.
 {{</ faq >}}
 
 {{< faq "N'y a t il pas déjà des fermes où c'est le client qui récolte" >}}
