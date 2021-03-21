@@ -1,7 +1,7 @@
 +++
 date = 2021-03-18T23:00:00Z
 description = "Une guilde de plantes faciles et productives"
-image = ""
+image = "images/blog/layers.jpg"
 title = "Une guilde de plantes faciles et productives"
 type = "regular"
 

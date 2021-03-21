@@ -1,6 +1,7 @@
 ---
 banner:
-  title: Légumes et fruits locaux, <br> cueillis par les clients
+  title: Légumes et fruits locaux, <br> cueillis par les clients<br>
+    dans des jardins-forêts accueillants.
   image: images/logo.svg
   content: |-
     Bousculer l'agriculture intensive et la logistique des produits frais pour inventer une alimentation zero carbone.<br>
@@ -36,19 +37,18 @@ feature:
 service:
   enable: false
   service_item:
-  - title: It is the most advanced digital marketing and it company.
+  - title: Le jardin-forêt est né du mariage de la permaculture et de l' agroforesterie.
     images:
-    - images/service-1.png
-    - images/service-2.png
-    - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    - images/blog/layers.jpg
+#    - images/service-2.png
+#    - images/service-3.png
+    content: Il comporte différents étages de végétation tels des grands arbres (fruitiers ou à coques),
+      des arbustes ou arbrisseaux (petits fruitiers), des buissons (à baies ou aromatiques),
+      des plantes herbacées (légumes vivaces, plantes aromatiques, médicinales et utiles),
+      des plante racines, des couvre-sol et des plantes grimpantes.
     button:
       enable: true
-      label: Check it out
+      label: En savoir plus
       link: "#"
   - title: It is a privately owned Information and cyber security company
     images:

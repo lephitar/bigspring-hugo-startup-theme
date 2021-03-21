@@ -1,31 +1,31 @@
 ---
-title: "Privecy & Policy"
+title: "Privacy & Policy"
 subtitle: ""
 # meta description
-description: "This is meta description"
+description: "Privacy & Policy"
 draft: false
 ---
 
-#### Responsibility of Contributors
+#### Collection of personal data
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed 
+The term "personal data" means any information concerning a person and identifying that person, such as electronic addresses, date of birth, password, and payment information. This information does not include the data in which the identity has been deleted (anonymous data).
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+In the course of our processes, we collect and treat personal data in different ways. We can collect the personal data you provide to us directly, but we also collect data by recording your interaction with our services, for example using cookies on this website.
 
-#### Gathering of Personal Information
+The personal data we collect about you may include, without any limitation: your name, your email address, your mailing address, your phone number, your billing information, your responses to surveys and others Information that you can provide us with your subject through our site, as well as your IP address and your web browser.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+#### Using Personal Data
 
-#### Protection of  Personal- Information
+We use the personal data we collect only for specific purposes, in particular, without being limiting, to offer you our services, to manage your registration and your account, to inform you of the changes made to our conditions or our conditions. Privacy Policy, to ask you to give your opinion or participate in an investigation, to protect us from fraudulent, unlawful, unauthorized and illegal activities and to investigate such activities and dissuade them, to administer and protect our company, and to adjust disputes or solve problems.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. 
+#### Protection of personal data
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat 
+We want to inspire confidence and we are committed to protecting the personal data we collect. Although no website can fully guarantee security, we have put in place and apply appropriate physical, administrative, technical and organizational measures to protect the personal data that you communicate against any access, use or unauthorized disclosure or illegal, as well as against any damage, loss, alteration or accidental destruction.
 
-#### Privacy Policy Changes
+#### Changes in Privacy Policy
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but  limited to, email addresses, telephone numbers
-4. Any Update come in The technology  Customer will get automatic  Notification.
+BVG can modify, update and / or replace this privacy policy from time to time. We indicate the date we have made amendments to this lasting privacy policy in the first page of this Privacy Policy, and any modification takes effect at the time of its publication. We inform our users of the significant changes made to this Privacy Policy by sending them a notification to the e-mail address they have provided us or by publishing an opinion on our website. We recommend that you regularly consult this Privacy Policy to review the most recent version.
+
+#### How to contact us
+
+For any questions or complaint about how we treat your personal data, please contact us by sending an e-mail to  **Mail:[privacy@bonvivant.garden](mailto: privacy@bonvivant.garden)**. You may also have the right to file a complaint with the supervisory authority regarding how we treat your personal data. However, we would be grateful if you would give us the opportunity to respond to your concerns before sending you to the supervisory authority and you ask to contact us in the first place.
