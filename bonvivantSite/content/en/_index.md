@@ -1,7 +1,7 @@
 ---
 ####################### Banner #########################
 banner:
-  title: "Pick your own vegetables and fruits in a network of local forest-gardens.
+  title: "Pick your own vegetables and fruits in a network of local forest-gardens."
   image: "images/logo.svg"
   content: "|-
     Disrupt intensive agriculture and perishable good logistics into a zero carbon footprint food supply. <br>
