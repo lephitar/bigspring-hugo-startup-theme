@@ -1,5 +1,5 @@
 ---
-date = 2021-03-27T23:00:00Z
+date: 2021-03-27T23:00:00Z
 description: "Perennial wheat for a healthier planet"
 image: "images/blog/kernza-roots.jpg"
 title: "Perennial wheat for a healthier planet"
