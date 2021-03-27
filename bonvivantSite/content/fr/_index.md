@@ -33,7 +33,7 @@ feature:
 
     # feature item loop
     - name : "Social"
-      icon : "fas fa-heart"
+      icon : "fas fa-user-friends"
       content : "Crée du lien, des emplois et rend l'alimentation saine accessible"
 
     # feature item loop

@@ -1,7 +1,7 @@
 ---
 date: 2021-03-27T23:00:00Z
 description: "Perennial wheat for a healthier planet"
-image: "images/blog/kernza-roots.jpg"
+image: "images/blog/kernza_roots.jpg"
 title: "Perennial wheat for a healthier planet"
 subtitle: "Major sources of carbohydrates need to come from perennials."
 type: "regular"
