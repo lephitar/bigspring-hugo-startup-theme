@@ -1,6 +1,6 @@
 # main menu
 [[main]]
-name = "Home"
+name = "Accueil"
 url = "/"
 weight = 1
 
@@ -33,27 +33,27 @@ url = "#"
 name = "Démarrer"
 url = "#"
 
-[[footer_left]]
-name = "Pricing"
-url = "pricing"
+#[[footer_left]]
+#name = "Pricing"
+#url = "pricing"
 
 
 # footer menu middle
-[[footer_middle]]
-name = "Pricing"
-url = "pricing"
+#[[footer_middle]]
+#name = "Pricing"
+#url = "pricing"
 
 [[footer_middle]]
-name = "Platform"
+name = "Plateforme"
 url = "#"
 
 [[footer_middle]]
-name = "Features"
+name = "Spécificités"
 url = "#"
 
 # footer menu right
 [[footer_right]]
-name = "Politique de Confidentialité"
+name = "Politique de confidentialité"
 url = "privacy-policy"
 
 [[footer_right]]

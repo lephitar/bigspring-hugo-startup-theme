@@ -28,4 +28,4 @@ BVG can modify, update and / or replace this privacy policy from time to time. W
 
 #### How to contact us
 
-For any questions or complaint about how we treat your personal data, please contact us by sending an e-mail to  **Mail:[privacy@bonvivant.garden](mailto: privacy@bonvivant.garden)**. You may also have the right to file a complaint with the supervisory authority regarding how we treat your personal data. However, we would be grateful if you would give us the opportunity to respond to your concerns before sending you to the supervisory authority and you ask to contact us in the first place.
+For any questions or complaint about how we treat your personal data, please contact us by sending an e-mail to **[privacy@bonvivant.garden](mailto: privacy@bonvivant.garden)**. You may also have the right to file a complaint with the supervisory authority regarding how we treat your personal data. However, we would be grateful if you would give us the opportunity to respond to your concerns before sending you to the supervisory authority and you ask to contact us in the first place.

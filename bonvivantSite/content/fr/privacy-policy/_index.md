@@ -10,7 +10,7 @@ draft: false
 
 L’expression « Données personnelles » désigne toute information concernant une personne et permettant de l’identifier, par exemple les adresses électroniques, la date de naissance, le mot de passe et les informations de paiement. Ces informations ne comprennent pas les données dans lesquelles l’identité a été supprimée (données anonymes).
 
-Dans le cours de nos processus, nous recueillons et traitons des données personnelles de différentes manières. Nous pouvons recueillir les données personnelles que vous nous fournissez directement, mais nous recueillons aussi des données en enregistrant votre interaction avec nos services, par exemple à l’aide de cookies sur ce site Web. 
+Dans le cours de nos processus, nous recueillons et traitons des données personnelles de différentes manières. Nous pouvons recueillir les données personnelles que vous nous fournissez directement, mais nous recueillons aussi des données en enregistrant votre interaction avec nos services, par exemple à l’aide de cookies sur ce site Web.
 
 Les données personnelles que nous recueillons à votre sujet peuvent inclure, sans que cela soit limitatif : votre nom, votre adresse électronique, votre adresse postale, votre numéro de téléphone, vos informations relatives à la facturation, vos réponses à des enquêtes et d’autres informations que vous pouvez nous fournir à votre sujet par l’intermédiaire de notre site, ainsi que votre adresse IP et votre navigateur Web.
 
@@ -28,4 +28,4 @@ BVG peut modifier, mettre à jour et/ou remplacer cette Politique de confidentia
 
 #### Moyens à disposition pour nous contacter
 
-Pour toute question ou plainte concernant la façon dont nous traitons vos données personnelles, veuillez nous contacter en envoyant un e-mail à  **Mail:[privacy@bonvivant.garden](mailto:privacy@bonvivant.garden)** . Vous pouvez également avoir le droit de déposer une plainte auprès de l’autorité de surveillance concernant la manière dont nous traitons vos données personnelles. Toutefois, nous vous serions reconnaissants de bien vouloir nous donner l’opportunité de répondre à vos inquiétudes avant de vous adresser à l’autorité de surveillance et vous demandons donc de nous contacter en premier lieu.
+Pour toute question ou plainte concernant la façon dont nous traitons vos données personnelles, veuillez nous contacter en envoyant un e-mail à  **[privacy@bonvivant.garden](mailto:privacy@bonvivant.garden)** . Vous pouvez également avoir le droit de déposer une plainte auprès de l’autorité de surveillance concernant la manière dont nous traitons vos données personnelles. Toutefois, nous vous serions reconnaissants de bien vouloir nous donner l’opportunité de répondre à vos inquiétudes avant de vous adresser à l’autorité de surveillance et vous demandons donc de nous contacter en premier lieu.

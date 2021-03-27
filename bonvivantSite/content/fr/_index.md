@@ -3,14 +3,13 @@
 banner:
   title : "Cueillir soi-même ses légumes et fruits dans un réseau de jardins-forêts de proximité."
   image : "images/logo.svg"
-  content : "|-
-    Bousculer l'agriculture intensive et la logistique des produits frais pour inventer une alimentation zero carbone.<br>
+  content : "Bousculer l'agriculture intensive et la logistique des produits frais pour inventer une alimentation zero carbone.<br>
     Encourager un mode de vie plus respectueux de l'environnement, plus social, plus résilient, plus sain.<br>
     Créer des emplois pour des milliers de jardiniers tout en déployant la marque et l'impact Bon Vivant Garden."
-  button:
-    enable : true
-    label : "Contact With Us"
-    link : "contact"
+#  button:
+#    enable : true
+#    label : "Prenez contact"
+#    link : "contact"
 
 ##################### Feature ##########################
 feature:
@@ -51,7 +50,7 @@ feature:
 
 ######################### Service #####################
 service:
-  enable : true
+  enable : false
   service_item:
     # service item loop
     - title : "It is the most advanced digital marketing and it company."
@@ -97,7 +96,7 @@ service:
 
 ################### Screenshot ########################
 screenshot:
-  enable : true
+  enable : false
   title : "Experience the best <br> workflow with us"
   image : "images/screenshot.svg"
 
@@ -105,7 +104,7 @@ screenshot:
 
 ##################### Call to action #####################
 call_to_action:
-  enable : true
+  enable : false
   title : "Ready to get started?"
   image : "images/cta.svg"
   content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."

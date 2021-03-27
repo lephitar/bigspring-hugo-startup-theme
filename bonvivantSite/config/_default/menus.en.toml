@@ -39,9 +39,9 @@ url = "#"
 
 
 # footer menu middle
-[[footer_middle]]
-name = "Pricing"
-url = "pricing"
+#[[footer_middle]]
+#name = "Pricing"
+#url = "pricing"
 
 [[footer_middle]]
 name = "Platform"

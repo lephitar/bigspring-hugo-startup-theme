@@ -3,8 +3,7 @@
 banner:
   title: "Pick your own vegetables and fruits in a network of local forest-gardens."
   image: "images/logo.svg"
-  content: "|-
-    Disrupt intensive agriculture and perishable good logistics into a zero carbon footprint food supply. <br>
+  content: "Disrupt intensive agriculture and perishable good logistics into a zero carbon footprint food supply. <br>
     Support a healthier, more resilient, more socially and environmentally conscious lifestyle.<br>
     Create a sustainable business for thousands of gardeners while scaling Bon Vivant Garden brand and impact."
 #  button:
@@ -51,7 +50,7 @@ feature:
 
 ######################### Service #####################
 service:
-  enable : true
+  enable : false
   service_item:
     # service item loop
     - title : "It is the most advanced digital marketing and it company."
@@ -97,7 +96,7 @@ service:
 
 ################### Screenshot ########################
 screenshot:
-  enable : true
+  enable : false
   title : "Experience the best <br> workflow with us"
   image : "images/screenshot.svg"
 
@@ -105,7 +104,7 @@ screenshot:
 
 ##################### Call to action #####################
 call_to_action:
-  enable : true
+  enable : false
   title : "Ready to get started?"
   image : "images/cta.svg"
   content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
