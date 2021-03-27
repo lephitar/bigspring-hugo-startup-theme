@@ -1,5 +1,5 @@
 [build]
-publish = "bonvivant/public"
+publish = "bonvivantSite/public"
 command = "cd bonvivantSite && hugo --gc --themesDir ../.."
 
 [build.environment]
