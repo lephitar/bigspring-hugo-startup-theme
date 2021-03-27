@@ -1,0 +1,36 @@
+#################### default parameters ################################
+logo = "images/logo.png"
+logo_width = "200px"
+# Meta data
+description = "This is meta description"
+author = "Themefisher"
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+
+# Preloader
+[preloader]
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
+
+# Navigation buttons
+[navigation_button]
+enable = true
+label = "Get Started"
+link = "contact"
+
+
+############################# social site ########################
+[[social]]
+icon = "ti-pinterest"
+link = "https://pin.it/1FiIIpt"
+title = "Pinterest"
+
+[[social]]
+icon = "ti-instagram"
+link = "https://www.instagram.com/bonvivantgarden/"
+title = "Instagram"
+
+[[social]]
+icon = "ti-twitter-alt"
+link = "#"
+title = "twitter"

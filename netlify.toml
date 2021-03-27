@@ -1,6 +1,6 @@
 [build]
-publish = "bonvivantSite/public"
-command = "cd bonvivantSite && hugo --gc --themesDir ../.."
+publish = "bonvivant/public"
+command = "cd exampleSite && hugo --gc --themesDir ../.."
 
 [build.environment]
 HUGO_VERSION = "0.81.0"
