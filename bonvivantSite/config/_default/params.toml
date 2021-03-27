@@ -1,5 +1,5 @@
 #################### default parameters ################################
-logo = "images/logo.png"
+logo = "images/logo.svg"
 logo_width = "200px"
 # Meta data
 description = "This is meta description"
@@ -21,16 +21,16 @@ link = "contact"
 
 ############################# social site ########################
 [[social]]
-icon = "ti-pinterest"
+icon = "fab fa-pinterest"
 link = "https://pin.it/1FiIIpt"
 title = "Pinterest"
 
 [[social]]
-icon = "ti-instagram"
+icon = "fab fa-instagram"
 link = "https://www.instagram.com/bonvivantgarden/"
 title = "Instagram"
 
 [[social]]
-icon = "ti-twitter-alt"
+icon = "fab fa-twitter"
 link = "#"
 title = "twitter"
