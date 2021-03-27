@@ -1,11 +1,9 @@
 ---
-title: "Politique de confidentialité"
-subtitle: ""
-# meta description
-description: "Politique de confidentialité"
-draft: false
----
+title: Politique de confidentialité
+subtitle: ''
+description: Politique de confidentialité
 
+---
 #### Recueil de vos données personnelles
 
 L’expression « Données personnelles » désigne toute information concernant une personne et permettant de l’identifier, par exemple les adresses électroniques, la date de naissance, le mot de passe et les informations de paiement. Ces informations ne comprennent pas les données dans lesquelles l’identité a été supprimée (données anonymes).
@@ -28,4 +26,4 @@ BVG peut modifier, mettre à jour et/ou remplacer cette Politique de confidentia
 
 #### Moyens à disposition pour nous contacter
 
-Pour toute question ou plainte concernant la façon dont nous traitons vos données personnelles, veuillez nous contacter en envoyant un e-mail à  **[privacy@bonvivant.garden](mailto:privacy@bonvivant.garden)** . Vous pouvez également avoir le droit de déposer une plainte auprès de l’autorité de surveillance concernant la manière dont nous traitons vos données personnelles. Toutefois, nous vous serions reconnaissants de bien vouloir nous donner l’opportunité de répondre à vos inquiétudes avant de vous adresser à l’autorité de surveillance et vous demandons donc de nous contacter en premier lieu.
+Pour toute question ou plainte concernant la façon dont nous traitons vos données personnelles, veuillez nous contacter en envoyant un e-mail à [**privacy@bonvivant.garden**](mailto:privacy@bonvivant.garden) . Vous pouvez également avoir le droit de déposer une plainte auprès de l’autorité de surveillance concernant la manière dont nous traitons vos données personnelles. Toutefois, nous vous serions reconnaissants de bien vouloir nous donner l’opportunité de répondre à vos inquiétudes avant de vous adresser à l’autorité de surveillance et vous demandons donc de nous contacter en premier lieu.
