@@ -1,6 +1,3 @@
-defaultContentLanguage = "fr"
-disableLanguages = ["de"]
-
 ############################# French ############################
 [fr]
 languageName = "Fr"
