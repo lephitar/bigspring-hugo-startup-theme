@@ -1,45 +1,30 @@
-############################# French ############################
-[fr]
-languageName = "Fr"
-title = "Bon Vivant Garden"
-contentDir = "content/fr" # content/english
-weight = 1
-########### footer content ##########
-footer_menu_left = "Entreprise"
-footer_menu_middle = "Jardin"
-footer_menu_right = "Support"
-footer_content = "Cueillir soi-même ses légumes et fruits dans un réseau de jardins-forêts de proximité."
-# copyright
-copyright = "Design [phitar](https://phitar.com/)"
-
-
-
-############################# English ############################
-[en]
-languageName = "En"
-title = "Bon Vivant Garden"
-contentDir = "content/en" # content/english
-weight = 2
-########### footer content ##########
-footer_menu_left = "Company"
-footer_menu_middle = "Garden"
-footer_menu_right = "Support"
-footer_content = "Pick your own vegetables and fruits in a network of local forest-gardens."
-# copyright
-copyright = "Design [phitar](https://phitar.com/)"
-
-
-
-############################# Deutsch ############################
 [de]
-languageName = "De"
-title = "Bigspring Hugo"
-contentDir = "content/deutsch" # content/german
-weight = 3
-########### footer content ##########
+contentDir = "content/deutsch"
+copyright = "Design [phitar](https://phitar.com/)"
+footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
 footer_menu_left = "Firma"
 footer_menu_middle = "Garten"
 footer_menu_right = "Support"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
-# copyright
+languageName = "De"
+title = "Bigspring Hugo"
+weight = 3
+[en]
+contentDir = "content/en"
 copyright = "Design [phitar](https://phitar.com/)"
+footer_content = "Pick your own vegetables and fruits in a network of local forest-gardens."
+footer_menu_left = "Company"
+footer_menu_middle = "Garden"
+footer_menu_right = "Support"
+languageName = "En"
+title = "Bon Vivant Garden"
+weight = 2
+[fr]
+contentDir = "content/fr"
+copyright = "Design [phitar](https://phitar.com/)"
+footer_content = "Cueillir soi-même ses légumes et fruits dans un réseau de jardins-forêts de proximité."
+footer_menu_left = "Entreprise"
+footer_menu_middle = "Jardin"
+footer_menu_right = "Support"
+languageName = "Français"
+title = "Bon Vivant Garden"
+weight = 1
