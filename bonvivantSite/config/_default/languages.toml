@@ -15,7 +15,7 @@ footer_content = "Pick your own vegetables and fruits in a network of local fore
 footer_menu_left = "Company"
 footer_menu_middle = "Garden"
 footer_menu_right = "Support"
-languageName = "En"
+languageName = "English"
 title = "Bon Vivant Garden"
 weight = 2
 [fr]
