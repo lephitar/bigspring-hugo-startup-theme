@@ -22,7 +22,7 @@ feature:
       content : "Vos aliments poussent **dans votre quartier**"
 
     # feature item loop
-    - name : "Transition"
+    - name : "Ecologique"
       icon : "fas fa-object-group"
       content : "N'utilise ni transport, ni énergies fossiles"
 

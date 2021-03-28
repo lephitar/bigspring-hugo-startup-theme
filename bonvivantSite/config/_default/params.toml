@@ -7,7 +7,7 @@ author = "Themefisher"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 
-favicon = "/images/favicon.ico"  
+favicon = "/images/favicon.ico"
 
 # Preloader
 [preloader]
@@ -34,5 +34,5 @@ title = "Instagram"
 
 [[social]]
 icon = "fab fa-twitter"
-link = "#"
+link = "https://twitter.com/bonvivantgarden"
 title = "twitter"

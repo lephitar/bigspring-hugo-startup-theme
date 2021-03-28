@@ -22,7 +22,7 @@ feature:
       content: "Your food grows in **your neighbourhood**"
 
     # feature item loop
-    - name: "Transition"
+    - name: "Ecological"
       icon : "fas fa-object-group"
       content: "Transportation and fossil energy free"
 
@@ -33,7 +33,7 @@ feature:
 
     # feature item loop
     - name: "Social"
-      icon : "fas fa-heart"
+      icon : "fas fa-user-friends"
       content: "Creates connections, jobs and makes healthy food affordable"
 
     # feature item loop
