@@ -24,7 +24,7 @@ link = "contact"
 ############################# social site ########################
 [[social]]
 icon = "fab fa-pinterest"
-link = "https://pin.it/1FiIIpt"
+link = "http://www.pinterest.com/bonvivantgarden"
 title = "Pinterest"
 
 [[social]]
