@@ -18,18 +18,18 @@ feature:
   feature_item:
     # feature item loop
     - name: "Local"
-      icon : "fas fa-code"
+      icon : "fas fa-bicycle"
       content: "Your food grows in **your neighbourhood**"
 
     # feature item loop
     - name: "Ecological"
-      icon : "fas fa-object-group"
-      content: "Transportation and fossil energy free"
+      icon : "fas fa-leaf"
+      content: "Conservation agriculture, no emissions"
 
     # feature item loop
-    - name: "Responsible"
-      icon : "fas fa-user-clock"
-      content: "Clients choose and pick their own produce"
+    - name: "Healthy"
+      icon : "fas fa-heart"
+      content: "Fresh, in season, untouched produce"
 
     # feature item loop
     - name: "Social"
@@ -38,12 +38,12 @@ feature:
 
     # feature item loop
     - name: "Sustainable"
-      icon : "fas fa-tachometer-alt"
+      icon : "fas fa-shopping-basket"
       content: "Excellent value while supporting a profitable business model"
 
     # feature item loop
     - name: "Digital"
-      icon : "fas fa-cloud"
+      icon : "fas fa-lightbulb"
       content: "Leverages new tools to help manage complexity and learning"
 
 

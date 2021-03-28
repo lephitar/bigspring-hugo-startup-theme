@@ -24,7 +24,7 @@ alabaster= "#D8DBCE"  # Alabaster
 # Give your font name from google font. add font weight using ":wght@" and separate by ";"
 # example: "Work Sans:wght@400;500;600"
 primary_font = "EB+Garamond:wght@400;700"
-primary_font_type = "sans-serif" # [serif/sans-serif]
+primary_font_type = "serif" # [serif/sans-serif]
 icon_font = "Font Awesome 5 Free"
 
 
@@ -43,5 +43,5 @@ link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
 [[params.plugins.js]]
-link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/js/all.min.js"
+link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js"
 attributes = "crossorigin='anonymous' defer='defer' data-search-pseudo-elements"
