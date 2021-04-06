@@ -1,7 +1,6 @@
 +++
 date = 2021-04-04T22:00:00Z
 description = ""
-draft = true
 image = ""
 title = "Resource précieuse sur les arbres fruitiers"
 type = ""
