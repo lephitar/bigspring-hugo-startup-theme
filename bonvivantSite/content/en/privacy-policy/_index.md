@@ -5,6 +5,7 @@ subtitle: ""
 description: "Privacy Policy"
 draft: false
 translationKey: "privacy-policy"
+slug: "privacy-policy"
 ---
 
 #### Collection of personal data

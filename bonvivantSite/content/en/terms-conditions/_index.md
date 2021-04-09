@@ -5,6 +5,7 @@ subtitle: ""
 description: "This is meta description"
 draft: false
 translationKey: "terms-conditions"
+slug: "terms-conditions"
 
 ---
 
