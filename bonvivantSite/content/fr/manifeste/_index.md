@@ -5,16 +5,16 @@ title : "Manifeste des jardins Bon Vivant"
 translationKey: "manifesto"
 
 ---
-_Déclaration publique des principes et des objectifs de Bon Vivant Garden._
+_Principes et objectifs de Bon Vivant Garden._
 
 # Le jardin-forêt en pratique
 
-Un jardin-forêt comestible est un jardin créé sur le modèle d’une forêt naturelle qui intègre des essences présentant un fort intérêt pour les humains. C'est un écosystème stable et par principe durable qui imite la structure et la diversité d’une forêt naturelle.  
-Il comporte tous les différents étages de végétation que l’on peut trouver en forêt: arbres nourriciers, fruitiers, arbustes, vivaces herbacées, aromatiques, légumes racines, lianes comestibles ou encore champignons.
+Un jardin-forêt comestible est un jardin créé sur le modèle d’une forêt naturelle qui intègre des essences présentant un fort intérêt pour les humains. C'est un écosystème stable et par principe durable qui imite la structure et la diversité d’une forêt naturelle. Il comporte tous les différents étages de végétation que l’on peut trouver en forêt: arbres nourriciers, fruitiers, arbustes, vivaces herbacées, aromatiques, légumes racines, lianes comestibles ou encore champignons.
 
-Le **jardin-forêt comestible** est une approche agroécologique qui s’inspire à la fois des principes d’agroforesterie et de permaculture en cherchant à:
+Le **jardin-forêt comestible** est une approche agroécologique qui s’inspire à la fois des principes d’agroforesterie et de permaculture en cherchant à
 - maximiser la production d’aliments tout en
 - minimisant le travail.
+
 **L’agroforesterie** consiste à associer sur une même parcelle des arbres, d’autres cultures et possiblement des animaux en recherchant les complémentarités. La **permaculture** vise à imiter la nature à travers un design de jardin qui en ait les mêmes qualités de biodiversité et de résilience.
 
 Un jardin forêt, à l’inverse d’un champ ou d’un potager, est implanté pour de nombreuses années en s’appuyant le plus possible sur des plantes vivaces plutôt que sur des plantes annuelles.
@@ -22,16 +22,19 @@ Un jardin forêt, à l’inverse d’un champ ou d’un potager, est implanté p
 # Avantages majeurs
 
 Les deux bénéfices les plus immédiats sont
-- l’**exploitation optimale de la lumière solaire**,
+- l’**utilisation maximum de la lumière solaire**,
 - le **non-labour**.
 
-Chaque rayon de soleil qui touche la terre plutôt qu’une feuille verte est une opportunité manquée de créer de la biomasse et de fixer du carbone par photosynthèse. Dans la nature, la terre n’est jamais nue.    
+Chaque rayon de soleil qui touche la terre plutôt qu’une feuille verte est une opportunité manquée de créer de la biomasse et de fixer du carbone par photosynthèse.     
 
-Dans un sol sans labour, une riche faune décompose la matière végétale et fabrique un humus fertile sur une profondeur croissante. Celui-ci augmente la rétention d’eau, la perméabilité du sol et facilite la pénétration racinaire
+Dans un sol sans labour, une riche faune décompose la matière végétale et fabrique un humus fertile sur une profondeur croissante. Celui-ci augmente la rétention d’eau, la perméabilité du sol et facilite la pénétration racinaire.
 
-Une forêt-jardin maximise d'un coté la production de biomasse et de l'autre sort du cycle vicieux de la monoculture qui exige un cycle labour-amendement-plantation-pesticide-labour. La biodiversité est elle aussi très largement développée, ce qui augmente à la fois:
-- résistance aux ravageurs par la création de véritables écosystèmes en équilibre, et
-- résistance aux aléas climatiques en répartissant le risque sur une variété de plantes.
+Une forêt-jardin
+- maximise la production de biomasse
+- sort du cycle vicieux de la monoculture: labour-amendement-plantation-pesticide-labour
+- supporte une très large biodiversité,
+- résiste mieux aux ravageurs, et
+- résiste mieux aux aléas climatiques.
 
 # Deux limites
 
@@ -43,7 +46,7 @@ Nos arbres et arbustes fruitiers sont des plantes pérennes mais **notre aliment
 
 **Bon Vivant** propose d’implanter de petits jardins-forêts à destination de leur voisinage résidentiel immédiat. Dans ces jardins, établis et maintenus par des professionnels, une très grande variété de plantes comestibles produit des légumes et des fruits tout au long de l’année.  
 
-La cueillette des produits est laissée aux **clients-cueilleurs**, après que ceux-ci aient été rapidement formés dans la façon de choisir et de récolter leurs légumes et leurs fruits. Une application sur smartphone géolocalisant précisément chaque plante dans chaque jardin permet au plus novice des cueilleurs de s'y retrouver dans le jardin et de **découvrir de nouvelles plantes comestibles**. L'application donne pour chaque plante présente:
+La cueillette des produits est laissée aux **clients-cueilleurs**, après que ceux-ci aient été rapidement formés dans la façon de choisir et de récolter leurs légumes et leurs fruits. Une application sur smartphone géolocalisant précisément chaque plante dans chaque jardin permet au plus novice des cueilleurs de s'y retrouver dans le jardin et de **découvrir de nouvelles plantes comestibles**. L'application donne pour chaque plante présente
 - emplacement(s) dans le jardin,
 - description de la plante (images, saison, origine)
 - conseils de récolte,
