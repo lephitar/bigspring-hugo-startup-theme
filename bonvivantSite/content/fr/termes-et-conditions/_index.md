@@ -4,6 +4,8 @@ subtitle: ""
 # meta description
 description: "This is meta description"
 draft: false
+translationKey: "terms-conditions"
+
 ---
 
 #### Responsibility of Contributors

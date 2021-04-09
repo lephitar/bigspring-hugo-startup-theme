@@ -1,9 +1,10 @@
-+++
-description = ""
-subtitle = ""
-title = "Manifeste Bon Vivant Garden"
+---
+description : ""
+subtitle : ""
+title : "Manifeste des jardins Bon Vivant"
+translationKey: "manifesto"
 
-+++
+---
 _Déclaration publique des principes et des objectifs de Bon Vivant Garden._
 
 # Le jardin-forêt en pratique
@@ -20,7 +21,7 @@ L’implantation d’un jardin forêt, à l’inverse d’un champ ou d’un pot
 Les deux bénéfices les plus immédiats sont l’e**xploitation optimale de la lumière solaire**, car la terre est toujours ombragée de plantes, et le **non-labour** car la terre n’est plus travaillée à chaque nouvelle culture.
 
 Chaque rayon de soleil qui touche la terre plutôt qu’une feuille verte est une opportunité manquée de créer de la biomasse et de fixer du carbone par photosynthèse. Dans la nature, la terre n’est jamais nue, même dans une forêt de feuillus, une couche de mousse et des plantes herbacées couvre le sol en hiver.   
-  
+
 Dans une terre qui n’est pas labourée, une riche faune accélère la décomposition de matière végétale et fabrique un humus fertile sur une profondeur croissante. Celui-ci augmente la rétention d’eau, la perméabilité du sol, et facilite la pénétration racinaire
 
 Une forêt-jardin, à l’inverse de la monoculture de plantes annuelles, maximise la production de biomasse par unité de surface, et sort du cycle vicieux de la monoculture (bio ou non) qui nécessite un cycle labour, amendements, plantations annuelles, pesticides, et retour au labour. Au-delà de la biomasse, la biodiversité est elle aussi très largement augmentée, amenant à la fois résistance aux ravageurs par la création de véritables écosystèmes en équilibre, et résistance aux aléas climatiques en répartissant le risque sur une variété de plantes.
@@ -30,13 +31,13 @@ Une forêt-jardin, à l’inverse de la monoculture de plantes annuelles, maximi
 Si le système du jardin-forêt est idéal sur le papier, la complexité et la fragilité d’une culture étagée et extrêmement variée rend la récolte beaucoup plus délicate, et donc coûteuse en main-d'œuvre car la mécanisation est impossible. De fait, en agriculture intensive, plus de la moitié des coûts et du labeur interviennent après la maturation des produits alors que tout est fait pour optimiser le travail de récolte (semences et âge des plantes uniformes, conditions et espacement identiques, machines…)
 
 Nos arbres et arbustes fruitiers sont des plantes pérennes mais tout le reste de notre alimentation est basé sur des plantes annuelles, même parfois sur des plantes vivaces cultivées comme des plantes annuelles (plantes racines). L'extrême richesse des plantes comestibles (entre 30 et 300’000 espèces) recèle une extraordinaire variété de saveurs et de bénéfices nutritionnels. Notre alimentation ordinaire est loin de tirer parti de cette richesse, à la fois par ignorance (et manque de recettes) et parce que de nombreuses plantes sont impossibles à exploiter industriellement (périment trop vite, fragilité au conditionnement ou transport, faible production en champ, impossibilité de faire mûrir artificiellement, non mécanisable…).   
-  
+
 Non seulement le nombre des espèces comestibles est réduit mais à l’intérieur de chaque espèce, les variétés elles-mêmes sont limitées, favorisant la productivité et la robustesse avant la précocité et les qualités gustatives.
 
 # La solution pour faire de ces limites un avantage
 
-Bon Vivant propose d’implanter de petits jardins-forêts à destination de leur voisinage résidentiel immédiat. Dans ces jardins, établis et maintenus par des professionnels, une très grande variété de plantes comestibles produit de manière étagée (dans le temps et l’espace), des légumes et des fruits tout au long de l’année.  
-  
+**Bon Vivant** propose d’implanter de petits jardins-forêts à destination de leur voisinage résidentiel immédiat. Dans ces jardins, établis et maintenus par des professionnels, une très grande variété de plantes comestibles produit de manière étagée (dans le temps et l’espace), des légumes et des fruits tout au long de l’année.  
+
 La cueillette des produits est laissée aux clients-cueilleurs, après que ceux-ci aient été rapidement formés dans la façon de choisir et de récolter leurs légumes et leurs fruits. Une application sur smartphone aide à la découverte de nouvelles opportunités de plantes comestibles, à la géolocalisation dans chaque jardin et associe aux conseils de récolte des recettes, des anecdotes historiques et une documentation nutritionnelle pour ceux qui le souhaitent.
 
 Par son approche, Bon Vivant Garden associe les extraordinaires avantages des jardins-forêts à une solution économique et pratique pour les rendre exploitables.
@@ -53,6 +54,19 @@ Enfin, à la différence du bio qui doit compenser sa plus faible productivité 
 
 # Un maraîchage de rupture
 
-Le maraîchage local peine à se développer malgré les initiatives nombreuses et l’intérêt des consommateurs alors que la logistique de produits frais en Europe explose. Bon Vivant Garden propose un modèle hyper local de production et de vente de produits frais qui associe accessibilité économique, responsabilité sociale et bénéfice écologique.
+Le maraîchage local peine à se développer malgré les initiatives nombreuses et l’intérêt des consommateurs alors que la logistique de produits frais en Europe explose. **Bon Vivant Garden** propose un modèle hyper local de production et de vente de produits frais qui associe **accessibilité économique, responsabilité sociale et bénéfice écologique**.
+
 
 **Si le concept Bon Vivant vous semble pertinent, prenez contact avec nous. Nous sommes à la recherche de communes, dans des zones périurbaines, qui souhaitent mettre à disposition un ou plusieurs terrains de 3 à 5000m2, à proximité d’écoles et d’habitations, pour mettre en place des prototypes de jardins Bon Vivant.**
+
+##################### Call to action #####################
+call_to_action:
+  enable : true
+  title : "Vous souhaitez lancer un jardin Bon Vivant?"
+  image : "images/cta.svg"
+  content : "Microferme jardin-forêt version IKEA"
+  button:
+    enable : true
+    label : "Prenez contact"
+    link : "contact"
+---

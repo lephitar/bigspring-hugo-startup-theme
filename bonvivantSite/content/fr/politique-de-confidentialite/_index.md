@@ -2,6 +2,7 @@
 title: Politique de confidentialité
 subtitle: ''
 description: Politique de confidentialité
+translationKey: "privacy-policy"
 
 ---
 #### Recueil de vos données personnelles

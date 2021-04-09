@@ -1,12 +1,12 @@
 [de]
-contentDir = "content/deutsch"
+contentDir = "content/de"
 copyright = "Design [phitar](https://phitar.com/)"
 footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
 footer_menu_left = "Firma"
 footer_menu_middle = "Garten"
 footer_menu_right = "Support"
-languageName = "De"
-title = "Bigspring Hugo"
+languageName = "Deutsch"
+title = "Bon Vivant Garden"
 weight = 3
 [en]
 contentDir = "content/en"

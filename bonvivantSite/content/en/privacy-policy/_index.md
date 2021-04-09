@@ -4,6 +4,7 @@ subtitle: ""
 # meta description
 description: "Privacy Policy"
 draft: false
+translationKey: "privacy-policy"
 ---
 
 #### Collection of personal data
