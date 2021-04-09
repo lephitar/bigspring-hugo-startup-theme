@@ -30,8 +30,8 @@ name = "A propos"
 url = "#"
 
 [[footer_left]]
-name = "Démarrer"
-url = "#"
+name = "Manifeste"
+url = "manifesto"
 
 #[[footer_left]]
 #name = "Pricing"
