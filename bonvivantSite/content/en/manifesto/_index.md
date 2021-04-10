@@ -7,6 +7,8 @@ translationKey: "manifesto"
 ---
 _Principles and objectives of Bon Vivant Garden._
 
+A Bon Vivant garden is a small, professionally maintained forest garden in which neighbours can come to pick and buy their fresh produce at a good price.
+
 # The forest garden in practice
 
 An edible forest garden is a garden created on the model of a natural forest that incorporates species of great interest to humans. It is a stable and in principle sustainable ecosystem that mimics the structure and diversity of a natural forest. It has all the different levels of vegetation that can be found in the forest: nourishing trees, fruit trees, shrubs, herbaceous perennials, aromatics, root vegetables, edible vines and mushrooms.

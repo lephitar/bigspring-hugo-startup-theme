@@ -7,6 +7,8 @@ translationKey: "manifesto"
 ---
 _Principes et objectifs de Bon Vivant Garden._
 
+Un jardin Bon Vivant est une forêt jardin de petite taille entretenue par des professionnels dans laquelle les voisins peuvent venir cueillir et acheter à bon prix leurs produits frais.
+
 # Le jardin-forêt en pratique
 
 Un jardin-forêt comestible est un jardin créé sur le modèle d’une forêt naturelle qui intègre des essences présentant un fort intérêt pour les humains. C'est un écosystème stable et par principe durable qui imite la structure et la diversité d’une forêt naturelle. Il comporte tous les différents étages de végétation que l’on peut trouver en forêt: arbres nourriciers, fruitiers, arbustes, vivaces herbacées, aromatiques, légumes racines, lianes comestibles ou encore champignons.
