@@ -33,9 +33,9 @@ url = "#"
 name = "Quick Start"
 url = "#"
 
-#[[footer_left]]
-#name = "Pricing"
-#url = "pricing"
+[[footer_left]]
+name = "Manifesto"
+url = "manifesto"
 
 
 # footer menu middle
