@@ -5,9 +5,9 @@ title : "Manifeste des jardins Bon Vivant"
 translationKey: "manifesto"
 
 ---
-_Principes et objectifs de Bon Vivant Garden._
+_Principes, nouveauté et objectifs de Bon Vivant Garden._
 
-Un jardin Bon Vivant est une forêt jardin de petite taille entretenue par des professionnels dans laquelle les voisins peuvent venir cueillir et acheter à bon prix leurs produits frais.
+Un jardin Bon Vivant est une forêt-jardin de petite taille entretenue par des professionnels dans laquelle les voisins peuvent venir cueillir et acheter à bon prix leurs produits frais.
 
 # Le jardin-forêt en pratique
 

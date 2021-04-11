@@ -5,7 +5,7 @@ title : "Bon Vivant Garden Manifesto"
 translationKey: "manifesto"
 
 ---
-_Principles and objectives of Bon Vivant Garden._
+_Principles, innovation and objectives of Bon Vivant Garden._
 
 A Bon Vivant garden is a small, professionally maintained forest garden in which neighbours can come to pick and buy their fresh produce at a good price.
 
