@@ -9,7 +9,7 @@ _Principes, nouveauté et objectifs de Bon Vivant Garden._
 
 Un jardin Bon Vivant est une forêt-jardin de petite taille entretenue par des professionnels dans laquelle les voisins peuvent venir cueillir et acheter à bon prix leurs produits frais.
 
-# Le jardin-forêt en pratique
+### Le jardin-forêt en pratique
 
 Un jardin-forêt comestible est un jardin créé sur le modèle d’une forêt naturelle qui intègre des essences présentant un fort intérêt pour les humains. C'est un écosystème stable et par principe durable qui imite la structure et la diversité d’une forêt naturelle. Il comporte tous les différents étages de végétation que l’on peut trouver en forêt: arbres nourriciers, fruitiers, arbustes, vivaces herbacées, aromatiques, légumes racines, lianes comestibles ou encore champignons.
 
@@ -21,7 +21,7 @@ Le **jardin-forêt comestible** est une approche agroécologique qui s’inspire
 
 Un jardin forêt, à l’inverse d’un champ ou d’un potager, est implanté pour de nombreuses années en s’appuyant le plus possible sur des plantes vivaces plutôt que sur des plantes annuelles.
 
-# Avantages majeurs
+### Avantages majeurs
 
 Les deux bénéfices les plus immédiats sont
 - l’**utilisation maximum de la lumière solaire**,
@@ -38,13 +38,13 @@ Une forêt-jardin
 - résiste mieux aux ravageurs,
 - résiste mieux aux aléas climatiques.
 
-# Deux limites
+### Deux limites
 
 Si le système du jardin-forêt semble idéal sur le papier, la complexité et la fragilité d’une culture étagée et extrêmement variée rend la récolte beaucoup plus délicate, et donc **coûteuse en main-d'œuvre**. De fait, en agriculture intensive, plus de la moitié des coûts et du labeur interviennent après la maturation des produits alors même que tout est fait pour optimiser le travail de récolte (semences et âge des plantes uniformes, conditions et espacement identiques, mécanisation…).
 
 Les arbres et arbustes fruitiers sont des plantes pérennes mais **notre alimentation est principalement basée sur un très petit nombre de plantes annuelles**. De nombreuses plantes difficiles à exploiter industriellement (périment trop vite, fragilité au conditionnement ou transport, faible production en champ, impossibilité de faire mûrir artificiellement, non mécanisables, rendement économique…) ont été progressivement éliminées par notre agriculture.
 
-# La solution pour faire de ces limites un avantage
+### La solution pour faire de ces limites un avantage
 
 **Bon Vivant** propose d’implanter de petits jardins-forêts à destination de leur voisinage résidentiel immédiat. Dans ces jardins, établis et maintenus par des professionnels, une très grande variété de plantes comestibles produit des légumes et des fruits tout au long de l’année.  
 
@@ -61,7 +61,7 @@ et permet au client-cueilleur de payer directement sa récolte.
 
 **Bon Vivant Garden associe les extraordinaires avantages des jardins-forêts à un modèle économique et pratique qui fait de leur complexité une richesse.**
 
-# En somme, les promesses du bio sans les contradictions
+### En somme, les promesses du bio sans les contradictions
 
 L’agriculture bio déçoit. Elle promettait un **moindre impact sur la planète et une alimentation de meilleure qualité** mais autant les méthodes que les produits sont les mêmes que l'agriculture conventionnelle:
 - labour mécanisé,
@@ -82,7 +82,7 @@ Sans labour, maximisant objectivement la biodiversité, sans mécanisation, sans
 
 Enfin, à la différence du bio qui compense sa plus faible productivité par des tarifs élevés, les jardins Bon Vivant proposent une solution d’excellent rapport qualité prix, un peu à la façon d’IKEA. Chez IKEA ce sont les clients qui doivent eux mêmes chercher les produits en entrepôt et ensuite les assembler en échange du meilleur prix.
 
-# Un maraîchage de rupture
+### Un maraîchage de rupture
 
 Le maraîchage local peine à se développer au-delà d'un cercle de convaincus, malgré les initiatives nombreuses et l’intérêt des consommateurs. A l'inverse, le transport routier de produits frais en Europe explose. **Bon Vivant Garden** propose un modèle hyper local de production et de vente de produits frais qui associe **qualité, accessibilité économique, responsabilité sociale et bénéfice écologique**.
 

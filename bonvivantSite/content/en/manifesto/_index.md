@@ -9,7 +9,7 @@ _Principles, innovation and objectives of Bon Vivant Garden._
 
 A Bon Vivant garden is a small, professionally maintained forest garden in which neighbours can come to pick and buy their fresh produce at a good price.
 
-# The forest garden in practice
+### The forest garden in practice
 
 An edible forest garden is a garden created on the model of a natural forest that incorporates species of great interest to humans. It is a stable and in principle sustainable ecosystem that mimics the structure and diversity of a natural forest. It has all the different levels of vegetation that can be found in the forest: nourishing trees, fruit trees, shrubs, herbaceous perennials, aromatics, root vegetables, edible vines and mushrooms.
 
@@ -21,7 +21,7 @@ The **edible garden-forest** is an agroecological approach that draws inspiratio
 
 A forest garden, unlike a field or a vegetable garden, is established for many years and relies as much as possible on perennials rather than annuals.
 
-# Major advantages
+### Major advantages
 
 The two most immediate benefits are
 - **maximum use of sunlight**,
@@ -38,13 +38,13 @@ A forest-garden
 - is more resistant to pests,
 - is more resistant to climatic hazards.
 
-# Two limits
+### Two limits
 
 A garden-forest system seems ideal on paper, but the complexity and fragility of a multi-layered and extremely varied culture makes harvesting much more delicate, and therefore **labor intensive**. In fact, in intensive agriculture, more than half of the costs and labor occur after produce have matured, even though everything is done to optimize harvesting work (uniform age of plants, identical conditions and spacing, mechanization, etc.) .
 
 Fruit trees and shrubs are perennial plants but **our diet is mainly based on a very small number of annuals**. Many plants that are difficult to exploit industrially (perish too quickly, fragility in packaging or transport, low production in the field, inability to ripen artificially, not mechanized, economic yield, etc.) have been gradually eliminated by our agriculture.
 
-# The solution to turn these limits into an advantage
+### The solution to turn these limits into an advantage
 
 **Bon Vivant** proposes to set up small forest gardens servicing their immediate residential neighborhood. In these gardens, established and maintained by professionals, a very wide variety of edible plants produces vegetables and fruits throughout the year.
 
@@ -61,7 +61,7 @@ and allows the client-gatherer to pay directly for her or his harvest.
 
 **Bon Vivant Garden combines the extraordinary advantages of forest gardens with an economic and practical model that turns their complexity into a richness.**
 
-# In short, the promises of organic products without the contradictions
+### In short, the promises of organic products without the contradictions
 
 Organic farming disappoints. It promised **less impact on the planet and better quality food**, but both the methods and the products are the same as conventional agriculture:
 - mechanized plowing,
@@ -82,7 +82,7 @@ Without plowing, objectively maximizing biodiversity, without mechanization, wit
 
 Finally, unlike organic which compensates for its lower productivity with higher prices, Bon Vivant gardens offer an excellent value for money solution, a bit like IKEA. At IKEA, the customers  have to pick their products in the warehouse and then assemble them in exchange for the best prices.
 
-# A breakthrough market gardening
+### A breakthrough market gardening
 
 Local market gardening is struggling to develop beyond a circle of believers, despite numerous initiatives and consumer interest. All the while road transport of fresh produce is exploding. **Bon Vivant Garden** offers a hyper local model of production and sale of fresh produce that combines **quality, affordability, social responsibility and ecological benefit**.
 

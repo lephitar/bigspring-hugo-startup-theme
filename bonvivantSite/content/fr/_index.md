@@ -44,7 +44,7 @@ feature:
     # feature item loop
     - name : "Digital"
       icon : "fas fa-lightbulb"
-      content : "Bâtit sur de nouveaux outils pour gérer la complexité"
+      content : "Bâti sur de nouveaux outils pour gérer la complexité"
 
 
 

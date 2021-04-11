@@ -30,10 +30,6 @@ name = "About Us"
 url = "#"
 
 [[footer_left]]
-name = "Quick Start"
-url = "#"
-
-[[footer_left]]
 name = "Manifesto"
 url = "manifesto"
 
