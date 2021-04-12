@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ with site.LanguageCode }}{{ . }}{{ else }}fr-FR{{ end }}">
 {{ partial "head.html" . }}
+<base href="{{ .Site.BaseURL }}">
 
 <body>
 	{{ partial "preloader.html" . }}
