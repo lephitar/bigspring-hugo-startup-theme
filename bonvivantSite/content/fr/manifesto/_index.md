@@ -48,7 +48,7 @@ Les arbres et arbustes fruitiers sont des plantes pérennes mais **notre aliment
 
 **Bon Vivant** propose d’implanter de petits jardins-forêts à destination de leur voisinage résidentiel immédiat. Dans ces jardins, établis et maintenus par des professionnels, une très grande variété de plantes comestibles produit des légumes et des fruits tout au long de l’année.  
 
-La cueillette des produits est confiée aux **clients-cueilleurs**, après que ceux-ci aient été rapidement éduqués dans la façon de choisir et de récolter leurs légumes et leurs fruits. Une application sur smartphone géolocalise précisément chaque plante dans chaque jardin permet au plus novice des cueilleurs de s'y retrouver dans le jardin et de **découvrir de nouvelles plantes comestibles**. L'application donne pour chaque plante présente
+La cueillette des produits est confiée aux **clients-cueilleurs**, après que ceux-ci aient été rapidement éduqués dans la façon de choisir et de récolter leurs légumes et leurs fruits. Une application sur smartphone qui géolocalise précisément chaque plante dans chaque jardin permet au plus novice des cueilleurs de s'y retrouver dans le jardin et de **découvrir de nouvelles plantes comestibles**. L'application donne pour chaque plante présente
 - emplacement(s) dans le jardin,
 - description de la plante (images, saison, origine),
 - conseils de récolte,
