@@ -4,6 +4,7 @@ description: "Installation d'un jardin-forêt"
 image: "images/blog/bon-vivant_s.jpg"
 title: "Installation d'un jardin-forêt"
 type: "featured"
+translationKey: "install-garden"
 
 ---
 Les premières plantes pour établir un jardin-forêt sont les **arbres fruitiers**: pommier, prunier, abricotier, pêcher, cerisier, poirier, nectarine, noisetier, aziminier, plaqueminier, cornouiller, amandier, grenadier, arbousier... Ce sont eux qui ont besoin d'un temps long avant de s'établir et de produire.

@@ -4,6 +4,8 @@ description: "Setting up a garden-forest"
 image: "images/blog/bon-vivant_s.jpg"
 title: "Setting up a garden-forest"
 type: "featured"
+translationKey: "install-garden"
+
 
 ---
 The first plants to plant to establish a garden-forest are **fruit trees**: apple, plum, apricot, peach, cherry, pear, nectarine, hazel, pawpaw, persimmon, dogwood, almond, pomegranate, strawberry tree ... They are the ones in need of a long time before establishing and producing.
