@@ -5,6 +5,7 @@ image: images/blog/kernza_roots.jpg
 title: Perennial wheat for a healthier planet
 subtitle: Major sources of carbohydrates need to come from perennials.
 type: regular
+translationKey: "perennial_wheat"
 
 ---
 80-85% of the world’s plant-based food supply comes from annual plants, that have to be grown from scratch every year. Half of calories and proteins consumed come from corn, rice and wheat. Experts worldwide think perennial grains, with long, drought-resistant roots, make more sense in a time of climate change.
