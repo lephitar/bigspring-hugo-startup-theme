@@ -1,12 +1,10 @@
+// Preloader js
+$(window).on('load', function () {
+	$('.preloader').fadeOut(100);
+});
 
-$(document).on('turbolinks:load', function () {
+$(document).ready(function () {
 	'use strict';
-
-	// prelaoder
-	$('.preloader').delay(100).fadeOut(10);
-
-	// re initialize bootstrap dropdown for turbolinks
-	$('.dropdown-toggle').dropdown()
 
 	//slider
 	$('.slider').not('.slick-initialized').slick({
@@ -17,4 +15,4 @@ $(document).on('turbolinks:load', function () {
 		arrows: false
 	});
 
-})(jQuery);
+});
