@@ -3,6 +3,6 @@ publish = "bonvivantSite/public"
 command = "cd bonvivantSite && hugo --gc --themesDir ../.."
 
 [build.environment]
-HUGO_VERSION = "0.89.0"
+HUGO_VERSION = "0.89.3"
 HUGO_THEME = "repo"
 HUGO_BASEURL = "/"
