@@ -11,5 +11,3 @@ fields:
 - type: text
   name: description
   label: meta description
-pages:
-- bonvivantSite/content/manifeste-bon-vivant-garden.md

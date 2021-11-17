@@ -18,8 +18,3 @@ fields:
 - type: text
   name: description
   label: meta description
-pages:
-- bonvivantSite/content/en/blog/nutrition-of-stone-age-humans.md
-- bonvivantSite/content/en/blog/nutrition-of-stone-age-humans.md
-- bonvivantSite/content/fr/blog/resource-precieuse-sur-les-arbres-fruitiers.md
-- bonvivantSite/content/fr/blog/resource-precieuse-sur-les-arbres-fruitiers.md
