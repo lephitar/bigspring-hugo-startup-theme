@@ -12,34 +12,18 @@ AUTHOR WEBSITE: https://gethugothemes.com
 
 <head>
 	{{ partial "head.html" . }}
-
-	{{ if hugo.IsProduction }}
 	{{ partialCached "style.html" . }}
-	{{ else }}
-	{{ partial "style.html" . }}
-	{{ end }}
+	<base href="{{ .Site.BaseURL }}">
 </head>
 
 <body>
-
-	{{ if hugo.IsProduction }}
 	{{ partialCached "preloader.html" . }}
-	{{ else }}
-	{{ partial "preloader.html" . }}
-	{{ end }}
 	{{ partial "header.html" . }}
-
 	<main>
 		{{ block "main" . }}{{ end }}
 	</main>
-
-	{{ if hugo.IsProduction }}
-	{{ partialCached "footer.html" . }}
-	{{ partialCached "script.html" . }}
-	{{ else }}
 	{{ partial "footer.html" . }}
-	{{ partial "script.html" . }}
-	{{ end }}
+	{{ partialCached "script.html" . }}
 </body>
 
 </html>

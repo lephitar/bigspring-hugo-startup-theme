@@ -3,11 +3,13 @@
 <head>
 	{{ partial "head.html" . }}
 	{{ partialCached "style.html" . }}
+	<base href="{{ .Site.BaseURL }}">
 </head>
 
+
 <body>
-	{{- partial "preloader.html" . -}}
-	{{- partial "header.html" . -}}
+	{{ partial "preloader.html" . }}
+	{{ partial "header.html" . }}
 
     <section class="banner">
         <div class="container">
@@ -20,7 +22,7 @@
         </div>
       </section>
 
-	{{- partial "footer.html" . -}}
+	{{ partial "footer.html" . }}
 </body>
 
 </html>

@@ -6,6 +6,6 @@ help:
 
 
 server:
-	hugo server -w --gc
+	hugo server -w
 
 .PHONY: all server
