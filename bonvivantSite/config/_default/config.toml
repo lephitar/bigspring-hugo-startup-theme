@@ -13,7 +13,7 @@ disqusShortname = ""
 # google analytics
 googleAnalytics = "" # example : UA-123-45
 
-defaultContentLanguage = "fr"
+#defaultContentLanguage = "fr"
 disableLanguages = ["de"]
 copyright = "Philippe Tarbouriech / Bon Vivant Garden"
 
